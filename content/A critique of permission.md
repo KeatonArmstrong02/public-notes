@@ -1,5 +1,5 @@
 ---
-title: "{{Title}}"
+title: "{{A critique of permission}}"
 date: 2025-01-08 12:23
 draft: false
 tags:
