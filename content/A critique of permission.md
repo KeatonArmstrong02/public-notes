@@ -1,3 +1,8 @@
+---
+title: "{{Title}}"
+date: 2025-01-08 12:23
+draft: false
+---
 2025-01-08 12:23
 
 Status: #child 
