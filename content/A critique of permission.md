@@ -2,6 +2,11 @@
 title: "{{Title}}"
 date: 2025-01-08 12:23
 draft: false
+tags:
+  - agency
+  - building
+  - component
+  - child
 ---
 2025-01-08 12:23
 
