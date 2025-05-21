@@ -8,11 +8,6 @@ tags:
   - component
   - child
 ---
-2025-01-08 12:23
-
-Status: #child 
-
-Tags:  #agency #society #building 
 
 # A critique of permission
 
