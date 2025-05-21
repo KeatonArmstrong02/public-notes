@@ -1,0 +1,18 @@
+[[Circle of Competence]]
+
+I thought of this because I’m listening to the daily Stoic and Bryan Holaday says that to truly understand somethings you must always practice it talk about it and discuss what the real meaning of some of the core ideas are, and as I zoomed out thought about this is true as well Many times, we will learn something about the same core concepts that we may have learned before.
+
+Imagine a tiny point then he will draw a line from you to this tiny point. This is your first contact with an idea a concept if you will. 
+When you draw the line to this point you now have a very surface level of understanding the idea maybe you understand what the word means now immediately you will also connect it to things that remind you of that idea no idea can exist in an empty space they’re all neural connections, and this giant web Netwerk that we have in our mind These are our neural connections.
+
+Now, when we continue to learn to study to understand, we will continue to draw new lines, connecting to that idea. Now we may become bored of this idea. We may think that we’ve already learned what it means yet true learning will always be soft and flexible. true learning is allowing us to drawl new lines, connecting to that idea, strengthening the connection that we have to it in our mind. 
+
+And as we draw more and more lines, connecting to the centerpoint from each, and every angle we have created a sphere(Image) this sphere is our circle of competence relating to this central idea.
+
+ーーーーーーーーーーーー
+
+Now, sometimes, when we don’t have many points of reference, connecting to a central idea, it can be hard to grow our circle of confidence our understanding around this idea, but some of the best ways I’ve found, of course, are connecting to similar and new ideas as sometimes we may not view this idea in The dimension that we might connect it to a different idea and as we navigate through language and words, it can really bring us to conclusions that we never thought possible completely different ways of understanding. A single word. Examples of this might be religion as I just realize that atheism serves careful use of words and connected ideas, I’ve come to realize that it can be a form of religion but enough about that
+As we learn new things constantly, as you must be a student of life, you’ll always have new things to connect. These ideas to is the act of creation in the way that I’ve learned from steel like an artist, the act of getting new perspectives, new points of reference to wish you can draw lines to connect to new Center points, to new ideas. 
+Sometimes we must consume listen to the perspectives of other people that have drawn those connections themselves and now you understand a little bit of their confidence. Their understanding of this idea then you take that synthesize it with what you understand about it maybe you have a line drawn to the idea that they haven’t drawn yet and now you have a do you understand competence to you .
+
+Some ideas may have further stretches further connections, then more direct or short connections, just as many may understand a certain word to have a specific meaning, while many people may understand the connection. There’s also popular because of that yet you could have a less popular connection to that idea that makes it more unique not necessarily better, but it is your own connection Remain open understand the connections that you were partial to in the ones that you’re not partial to. There are things that you will learn much quicker and things that you will not learn that you will choose to close yourself to sometimes we will be more correct sometimes will be more wrong yet that is the dance of intellect and we are all engaged in and damn I love it

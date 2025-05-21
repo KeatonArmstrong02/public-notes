@@ -1,0 +1,1 @@
+# Mastery is admired because it cannot be borrowed, stolen, or taught. It must be earned.

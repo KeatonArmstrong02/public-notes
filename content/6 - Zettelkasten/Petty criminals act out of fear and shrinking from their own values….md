@@ -1,0 +1,1 @@
+True bad men do bad things in worship to their values

@@ -1,0 +1,5 @@
+#freethinking 
+And it’s not always intelligence most people would it be a certain talent you have and expect you to go down that route because it’s something that you could do that some other people would be able but that’s not the point of having talent the point ever sell yourself short doesn’t matter that you have an ability why do a lot more for Mikey it matters what do you use used to do with it
+
+
+One of the hardest things to do I find that focus but it is also the most important because you could be smart talented have all these things that other people wish they could have but it’s up to you on where you focus that and that makes all of the difference and let me clarify I don’t have to focus it on what other people think you should get because other people will sell you short they don’t know you they just know the things that you can do that they can so they try to put you to do things as they wish they could do but you’re not their dreams did your duty follow Your dreams and make your impact and live your purpose

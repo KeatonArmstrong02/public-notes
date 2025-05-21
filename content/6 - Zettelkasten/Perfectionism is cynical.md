@@ -1,0 +1,2 @@
+#beliefs #philosophy 
+The idea of perfection is born from a limited place, this belief that something you are beholding is “so good that it cannot be improved upon” is hardly ever the case. What may seem miles beyond my own ability could be the master’s “worst work”

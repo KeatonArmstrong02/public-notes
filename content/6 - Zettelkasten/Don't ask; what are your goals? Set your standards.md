@@ -1,0 +1,11 @@
+2025-01-21 12:39
+
+Status:
+
+Tags: #habits #building #identity 
+
+# Don't ask "what are your goals?" Set your standards
+
+
+#### Reference
+[[Atomic Habits by James Clear]]

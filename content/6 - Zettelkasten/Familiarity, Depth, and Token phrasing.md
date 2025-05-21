@@ -1,0 +1,2 @@
+Tags: #insight #learning #philosophy 
+

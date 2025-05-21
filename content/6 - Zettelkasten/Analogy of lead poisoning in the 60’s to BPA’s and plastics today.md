@@ -1,0 +1,1 @@
+It was much slower, but just as deadly for how delayed it all was

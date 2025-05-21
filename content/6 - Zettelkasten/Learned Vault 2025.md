@@ -1,0 +1,1 @@
+Zettelkasten (Slip-Box) was the system of sociologist Niklas Luhmann. He pioneered a system which allowed him a ridiculous level of productivity. The Societ of Societies, 70+ Published works, 400 articles

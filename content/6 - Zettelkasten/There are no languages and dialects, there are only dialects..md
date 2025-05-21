@@ -1,0 +1,1 @@
+The only difference is political. Countries decide that a dialect is the language of the country
