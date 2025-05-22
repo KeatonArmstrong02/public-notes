@@ -1,9 +1,12 @@
-2025-01-08 12:23
-
-Status: #child 
-
-Tags:  #agency #society #building 
-
+---
+date: 2025-01-08 12:23
+draft: false
+tags:
+  - agency
+  - building
+  - component
+  - child
+---
 # A critique of permission
 
 You need to raise your hand to go to the bathroom. Ask your parents when you can hang out with your friends. Get a signed note to miss school.
