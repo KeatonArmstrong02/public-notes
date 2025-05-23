@@ -1,0 +1,1 @@
+Vivian’s very wise words won her a victory worth velvet.

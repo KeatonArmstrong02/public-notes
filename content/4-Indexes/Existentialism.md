@@ -1,4 +1,5 @@
- *If you give everything- to what and who you love, one life is all you need. - Zach Pogrob*
+
+*If you give everything- to what and who you love, one life is all you need. - Zach Pogrob*
 
 
 Existentialism is a school of philosophy centering around the idea that meaning is found within one's own existence. There is no outside authority that decides our meaning, it is subjective to one's own life.
@@ -17,4 +18,4 @@ Though one might revel in seeing the opportunities for his life opening up upon 
 
 
 [[The Midnight Library by Matt Haig]]
-is an existentialist book
+is a beautifully existentialist book

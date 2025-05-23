@@ -1,0 +1,1 @@
+Process for breaking a language down into its features to make it easy to learn from and speakers POV. I.E. Spanish has obvious Latin help to English but everyone will have to learn Spanish verb behavior as its own skill

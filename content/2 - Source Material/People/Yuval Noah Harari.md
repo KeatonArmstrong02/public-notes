@@ -1,0 +1,79 @@
+This is the other book from him, I think about the 21's century.. I read it at the library my first week in ohio turf
+--
+
+Issue with thinking nowadays is that we place to trust in the individual however the individual does not know best.
+
+“we treat knowledge in the minds of others as if it were our own”
+Zipper/Helicopter
+“Our reliance on groupthink has made us masters of the world from an evolution airy perspective trusting the knowledge of others has worked extremely well for Homo sapiens”
+
+### Education
+*Change is the only Constant*
+
+In a world where the *rate of change* has rapidly increased there are so many uncertainties constantly around the corner
+**Counter this not by learning more information, but making sense of the information that you have**.
+We have a plethora of information, the important thing isn’t just consuming more. It’s discerning Important info from trivial.
+
+### **Meaning**
+Sacrifice is the most potent of convictions
+“Sacrifice is not just a way to convince your lover that you are serious; it is also a way to convince yourself that you are really in love”
+
+“Self-sacrifice is extremely persuasive not just for the martyrs but the bystanders as well”
+“Do you dare say that they died for nothing!? Do you think these heroes were fools?”
+
+“When you inflict suffering in the name of some story it gives you a choice: Either the story is true or I am a gullible fool.”
+Inflicting the suffering on others: “Either the story is true or I am a cruel villain”
+
+Connecting chaos in order to the ideas of meaning I’m reading in lessons for the 21st century the idea of storytelling and meaning has been fleshed out and connecting it with the ideas like fascism or any kind of ideal. He brings me to a metaphor of the ultimate liberal ideal which is that you do not choose any of those(stories) and you stick with free will however Free will itself is flawed as we do not have the will to choose our desires. This made me realize that settling on some kind of story that gives you the meaning of life is an essence of order. It gives you stability. As people grow older and they tired of having to reinvent themselves and they like the ideas that they’ve already come up with this is why they tend to lean more towards order. because it has worked for them. This is the same reason why people tend to lean to be more conservative as they age. 
+
+The brain is almost like a small chaos machine, constantly creating things. Even if we try to completely stop it it still creates potential. Consciousness is what brings order to this chaos. Such is why it is a trait of order. With consciousness we can observe this chaos and build solidity in the thoughts.
+
+If you accept that the meaning of life has “no story” (guidelines or myths that are true in every sense) that is the ultimate liberal ideal. You then find meaning in explaining this truth to others arguing with the unbelievers and giving lectures to the skeptics. “No story” can all too easily become just another story. This is radical liberal thought. Just as Jordan Peterson explains when you go too far in one direction and eventually shows traits of the other side going too far in the idea that there was no story will wrap back around and become a story.
+
+Because of this there is no escaping meaning. The human mind searches for meaning in stories.
+
+You fight so hard for the idea that has possessed you. “People are always drunk on something” No matter what belief we try to escape to, these stories, these models, follow us.
+Even if you meditate and try to do nothing, you will start to distort the truth we encounter into some story with humans, villains, and enemies, and in that truth find some good excuse to go to war.
+
+*Perhaps this is ego reaching out to always find a way to express itself?*
+(I should read up on Freud)
+
+The ideal of freedom (so far into letting the individual choose) you can lean so far into it that it becomes the ideal. *Who defines that freedom?* 
+Continuing with the idea of nationalism, even nations are ritualistic, it is a story that we created it is just a picture humans hold in their mind.
+Can “Poland” really suffer? Can you prick it with a needle? Can it experience pain or misery?
+The borders between countries are, along this line of thinking, not even real
+
+“So if you want to know the truth about the universe, about the meaning of life, and about your own identity, the best place to start is by observing suffering and exploring what that is.
+*The answer isn’t a story*”
+
+Suffering is the only REAL truth
+From this we can infer what we do not like, allowing us to find what we do like. It is reverse engineered from the axiom that is suffering
+
+### Meditation
+
+“I realized the deepest source of suffering is in the patters of my own mind. When I want something and it doesn’t happen, my mind reacts by generating suffering.”
+“Suffering is not an objective condition in the outside world. It is a mental reaction generated by my own mind. Learning this is the first step toward ceasing to generate more suffering.”
+
+If you want to think(write about) anything for yourself secondhand sources do not cut. The only way you could write about Samoan culture is to go visit yourself.
+
+Meditating is experiencing “you”
+“I” is forever changing. 
+We cannot even begin to understand the mind.
+When I read these books and adopt ideas thought and written by others, the true learning and understanding comes from when I directly feel and observe it as true in my own experiences. It may be a model of making sense of my experiences in the past. But all thinking is build on top of a foundation of modeling that you use.
+
+Meditation - direct observation of one’s own mind
+
+This is the most difficult question.
+Consciousness is the greatest mystery in the universe.
+
+
+Humans that believe we have a ton figured out have no clue just how much we do not know.
+We’ve barely scratched the surface of understanding the mind, consciousness, or any seriously disciplined peaks of performance.
+
+
+
+“As a scientist, I constantly ask myself: What is reality? Forget all of the stories people invented about the world. What is the truth about the world? I learned that If reality collided with the stories people tell, it is best to believe reality.”
+
+
+Keep in mind I believe Yuval was able to stretch so far into the idea of “No stories”
+For meaning is because of a very liberal leaning viewpoint. Although he did know the dangers of it he still arrived at that conclusion. I believe a similar answer landing closer on the side of order would be JP’s Rules. There is no inherent better side I would say, right now in a time of desiring more order I can see JP’s philosophy more appealing. Perhaps arriving at a practical answer for which to operate for a time is more necessary than taking the floor out from under yourself by constantly searching. Though, I shouldn’t engage in willful blindness. This kind of searching, according to Yuval, can only be done by experiencing on your own. Not through synthesis or discussion
