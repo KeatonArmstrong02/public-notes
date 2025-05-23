@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-19 20:50
+draft: false
+---
 #communication #freethinking 
 Thinking about the law and debate kids
 They’re trained to put their truth out and go to war for it.

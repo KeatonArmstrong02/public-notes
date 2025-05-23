@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-02-06 22:47
+draft: false
+---
 #agency [[My Story]]
 
 I never made a fuss to fix anything, I genuinely believed I could ignore it long enough until it didn't matter.

@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-21 09:54
+draft: false
+---
 #money #philosophy 
 Doing work to create money to get a platform to do more meaningful work
 Having money leverages us being able to do more meaningful work or spend time on more meaningful things

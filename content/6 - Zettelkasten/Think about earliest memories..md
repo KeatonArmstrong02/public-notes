@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-21 11:22
+draft: false
+---
 #psychology #psychotherapy 
 What behaviors did I learn from these  earliest, toughest memories?
 

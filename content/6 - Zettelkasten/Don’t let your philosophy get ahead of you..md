@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-02-07 22:06
+draft: false
+---
 #philosophy #humanjourney #spirituality #mystory 
 
 Wisdom is cool, I fell in love with the material aspect of being viewed as wise by those around me.

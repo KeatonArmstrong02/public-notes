@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-19 20:53
+draft: false
+---
 #livin #character #agency 
 
 (I had two copies of this exact note. This first one is dated 05 '23. The one following the line is two months later.)

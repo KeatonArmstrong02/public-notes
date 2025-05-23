@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-21 10:55
+draft: false
+---
 #contentcreation #freethinking 
 Everyone at the bottom learns and tries to imitate those at the top, It grows them further because they’re the ones setting the rules.
 

@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-07 12:10
+draft: false
+---
 Tags: #draft #contentcreation 
 
 Artistic showing of starting to try and make my first videos and movements over and over agian. How many times it took and how much time potentially wasted.

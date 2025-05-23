@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-21 12:00
+draft: false
+---
 #building #contentcreation 
 Your goal is survival, figuring out your own controls and finding a voice.
 

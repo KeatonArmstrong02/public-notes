@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-21 10:29
+draft: false
+---
 #society #modernity 
 I’m very much a product of my time, my place, environment. And I’ve been possessed, infected by the beliefs and ideas I carry with me. As I’ve tried to find some kind of symbiotic relationship with them.
 

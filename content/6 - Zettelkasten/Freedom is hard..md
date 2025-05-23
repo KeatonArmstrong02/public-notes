@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-20 17:43
+draft: false
+---
 Yeonmi Park's experience that thinking for herself was so difficult, yet now she's so much better with it. Freedom thrives when we thrive within an anti-fragile system. We cannot have "freedom" from our consequences as well. We must know the consequences.
 
 College isn’t a “safety” net because it’s safe

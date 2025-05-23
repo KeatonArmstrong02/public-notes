@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-07 11:55
+draft: false
+---
 #thinking 
 
 How to optimize a specific portion of your work may be taking away from overall productivity.

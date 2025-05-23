@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-02-07 20:51
+draft: false
+---
 The lies that we tell ourselves are affoded with credit.
 
 They buy us time, but put us in emotional debt.

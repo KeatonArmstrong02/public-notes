@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-09 11:11
+draft: false
+---
 Tags: #thinking #psychology 
 
 What % of understanding gets lost in translation when it isn’t experienced first hand

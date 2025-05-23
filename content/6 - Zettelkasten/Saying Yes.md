@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-02 09:47
+draft: false
+---
 
 Saying yes is a communication of your commitment.
 

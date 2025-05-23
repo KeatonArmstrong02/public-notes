@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-19 20:15
+draft: false
+---
 #habits 
 Most of our "bad habits" I would say in modern times is distraction, which both of those in mind is only so if we have a better thing which we ought to be doing.
 

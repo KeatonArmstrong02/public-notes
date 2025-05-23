@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-09 16:57
+draft: false
+---
 Tags: #beliefs #faith #courage
 
 “We’ve already tested the beliefs, you don’t have to figure it all out on your own. Have faith” Believe in the “God” and you will be okay

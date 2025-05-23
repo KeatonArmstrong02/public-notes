@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-03 16:17
+draft: false
+---
 
 Back when I "Needed to be consistent" on twitter I would scroll the app so much before ever writing anything. The same is true for substack.
 

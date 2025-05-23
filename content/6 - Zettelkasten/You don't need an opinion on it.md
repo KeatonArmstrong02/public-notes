@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-02-24 11:47
+draft: false
+---
 #thinking #modernity #humanjourney #stoicism 
 You can’t have an opinion about something if you don’t know enough about it. And listening to just one person’s theory on it certainly won’t give you a rounded or original view.
 

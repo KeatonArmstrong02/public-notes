@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-19 19:04
+draft: false
+---
 [[Circle of Competence]]
 
 I thought of this because I’m listening to the daily Stoic and Bryan Holaday says that to truly understand somethings you must always practice it talk about it and discuss what the real meaning of some of the core ideas are, and as I zoomed out thought about this is true as well Many times, we will learn something about the same core concepts that we may have learned before.

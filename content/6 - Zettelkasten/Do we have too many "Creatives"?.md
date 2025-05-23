@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-02-03 11:30
+draft: false
+---
 #society #draft 
 
 My generation is heavily inspired by the creatives, for after the internet they won infinite distribution and leverage.

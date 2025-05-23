@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-12 18:38
+draft: false
+---
 tags: #revisit 
 
 James Altucher has written about a cure for comparison. 

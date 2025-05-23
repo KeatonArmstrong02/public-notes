@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-21 11:06
+draft: false
+---
 #humanjourney #ambition  #freethinking 
 Source your ideas from multiple mentors.
 This can get too extreme by bouncing around to too many ideas whereas most mentors will have a mental model that works best if you just go hard on the one model.

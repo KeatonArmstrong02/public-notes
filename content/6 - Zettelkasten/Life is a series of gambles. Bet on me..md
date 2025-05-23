@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-07 12:07
+draft: false
+---
 Tags: #risk #character 
 
 Bets we make based on limited information, variables we’ll never be able to account for.

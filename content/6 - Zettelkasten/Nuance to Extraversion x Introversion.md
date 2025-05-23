@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-20 16:27
+draft: false
+---
 #psychology 
 
 It’s about the type of interaction and how it reacts with your current state.

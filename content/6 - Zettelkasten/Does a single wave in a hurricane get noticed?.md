@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-19 18:49
+draft: false
+---
 #modernity 
 
 Accomplishments are celebrated in noise

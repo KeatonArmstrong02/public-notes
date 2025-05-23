@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-02-07 20:09
+draft: false
+---
 Simple answers are lids to complex jars
 
 #thinking 

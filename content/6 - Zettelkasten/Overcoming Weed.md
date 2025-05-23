@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-08 11:30
+draft: false
+---
 8/31/22 (Luke's place first visit Austin)
 
 Tags: #mystory #meditation

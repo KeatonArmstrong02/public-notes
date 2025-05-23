@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-08 11:17
+draft: false
+---
 Tags: #mystory 
 
 My shallow problem was: how can I be happy? What is this life? What am I supposed to do with it?

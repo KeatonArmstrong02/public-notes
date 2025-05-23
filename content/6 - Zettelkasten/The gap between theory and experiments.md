@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-21 12:46
+draft: false
+---
 #beliefs #faith #philosophy 
 When theory and experience do not add up, it is problem with the theory…. With allowance of percentages and fractions being missed out.
 

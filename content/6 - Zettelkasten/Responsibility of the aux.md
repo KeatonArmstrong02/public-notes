@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-02-07 23:21
+draft: false
+---
 #modernity 
 
 There’s so much fear/responsibility attached he’d to this everyday occurrence

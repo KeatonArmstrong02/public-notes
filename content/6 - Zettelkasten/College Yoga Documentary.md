@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-08 13:57
+draft: false
+---
 Tags: #spirituality #mystory 
 
 Remembering the Yoga documentary in college, how that journalist tried to find spirituality from the actions first and couldn’t discover a spiritual side even though he went to some of the best teachers.

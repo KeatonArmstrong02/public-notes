@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-20 17:10
+draft: false
+---
 #freethinking 
 And it’s not always intelligence most people would it be a certain talent you have and expect you to go down that route because it’s something that you could do that some other people would be able but that’s not the point of having talent the point ever sell yourself short doesn’t matter that you have an ability why do a lot more for Mikey it matters what do you use used to do with it
 

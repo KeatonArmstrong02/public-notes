@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-02-02 08:24
+draft: false
+---
 #culture 
 
 You're not considered ambitious if all you want is to be a great parent and genuine life.

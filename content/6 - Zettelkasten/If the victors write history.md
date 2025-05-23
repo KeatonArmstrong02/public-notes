@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-19 19:33
+draft: false
+---
 Those in power right now are controlling the narrative.
 
 Pay attention to what you consume

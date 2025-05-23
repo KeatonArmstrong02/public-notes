@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-19 00:07
+draft: false
+---
 #morals 
 We always cite examples with which there are unintended or (more nefariously) hidden mal intentions for our actions. Particularly when unarticulated.
 

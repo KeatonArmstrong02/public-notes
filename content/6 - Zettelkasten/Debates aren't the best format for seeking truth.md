@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-21 11:56
+draft: false
+---
 #communication #freethinking #debate
 What are we always falling back on and how come they aren’t as effective?
 

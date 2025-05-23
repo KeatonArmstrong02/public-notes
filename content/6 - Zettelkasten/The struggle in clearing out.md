@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-19 18:57
+draft: false
+---
 #minimalism #courage 
 
 Desire is not something that you can satiate.

@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-21 10:57
+draft: false
+---
 #agency #responsibility 
 The less interested you are in something, the more inclined you are to not take responsibility for it.
 The inverse is true 

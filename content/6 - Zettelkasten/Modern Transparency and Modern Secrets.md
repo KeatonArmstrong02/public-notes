@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-19 19:55
+draft: false
+---
 #modernity 
 
 Enough will be revealed for us to rage for a century.

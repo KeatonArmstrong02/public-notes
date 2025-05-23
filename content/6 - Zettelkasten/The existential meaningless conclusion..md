@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-21 10:20
+draft: false
+---
 #existential #philosophy 
 
 First up. I hate the implications people are taking away from this philosophy.

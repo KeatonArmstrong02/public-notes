@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-19 19:13
+draft: false
+---
 #psychology 
 #healing 
 Not lying involves she knowing all of who you are. All of what you’ve done, all of what you plan to do, all of what you think.

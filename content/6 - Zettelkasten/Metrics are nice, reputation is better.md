@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-08 10:21
+draft: false
+---
 Tags: #character #contentcreation 
 
 Metrics are nice, but are people bringing up your name in private conversations?

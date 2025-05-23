@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-02-03 11:25
+draft: false
+---
 Tags: #language #morals
 
 We see it in grammar all the time and it makes sense to us in context. (Exceptions to rules just becoming Irregular, not illogical per se) It’s a structure of logic with exceptions to rules. Doesn't mean the logic has to always check out for it to be followed.

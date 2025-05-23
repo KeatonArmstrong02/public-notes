@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-20 16:41
+draft: false
+---
 #revisit #needsource #character 
 “Things will turn out fine” vs I can make things turn out well
 

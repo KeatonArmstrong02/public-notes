@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-12 18:40
+draft: false
+---
 7/9/2023 4:45pm
 
 Tags: #revisit #mystory #storytelling #existential

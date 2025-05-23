@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-19 19:48
+draft: false
+---
 #models #philosophy 
 In an existence where opportunity cost is baked in, because we don’t get the chance to split test things. By doing one thing you can’t do a different thing.
 

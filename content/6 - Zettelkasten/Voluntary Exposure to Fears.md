@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-01-19 20:34
+draft: false
+---
 #psychology #psychotherapy
 
 Peterson on rogan podcast.. Likely within wrestling with god

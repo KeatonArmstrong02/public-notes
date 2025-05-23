@@ -1,3 +1,8 @@
+---
+date: 2025-05-23 14:13
+last_modified: 2025-02-12 22:22
+draft: false
+---
 
 > _Once you see the boundaries of your environment, they are no longer the boundaries of your environment._
 > Marshall McLuhan
