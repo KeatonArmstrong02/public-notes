@@ -1,5 +1,7 @@
-2025-01-27 23:01
-
+---
+date: 2025-01-27 23:01
+draft: false
+---
 Status:
 
 Tags: #freethinking #learning 

@@ -1,5 +1,7 @@
-2025-01-09 15:10
-
+---
+date: 2025-01-09 15:10
+draft: false
+---
 Status: #baby 
 
 Tags: #learning #modernity 

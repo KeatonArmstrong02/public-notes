@@ -1,5 +1,7 @@
-2025-01-18 23:34
-
+---
+date: 2025-01-18 23:34
+draft: false
+---
 Status: #revisit 
 
 Tags: #philosophy #humanjourney 

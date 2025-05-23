@@ -1,5 +1,7 @@
-2025-05-04 10:31
-
+---
+date: 2025-05-04 10:31
+draft: false
+---
 Tags: #existential 
 
 # The Existential Frame

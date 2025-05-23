@@ -1,5 +1,7 @@
-2025-01-26 16:43
-
+---
+date: 2025-01-26 16:43
+draft: false
+---
 Status:
 
 Tags: #logic #psychology 

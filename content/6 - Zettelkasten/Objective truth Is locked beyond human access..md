@@ -1,5 +1,7 @@
-2025-01-18 23:27
-
+---
+date: 2025-01-18 23:27
+draft: false
+---
 Status:
 
 Tags: #beliefs #philosophy 

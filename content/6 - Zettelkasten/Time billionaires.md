@@ -1,5 +1,7 @@
-2025-02-23 12:27
-
+---
+date: 2025-02-23 12:27
+draft: false
+---
 Status:
 
 Tags: #building #wealth

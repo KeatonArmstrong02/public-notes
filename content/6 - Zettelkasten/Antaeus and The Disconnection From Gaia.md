@@ -1,5 +1,7 @@
-2025-01-14 09:29
-
+---
+date: 2025-01-14 09:29
+draft: false
+---
 Status: #revisit 
 
 Tags: #myth #decisionmaking 

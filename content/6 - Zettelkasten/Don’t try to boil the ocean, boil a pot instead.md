@@ -1,5 +1,7 @@
-2025-01-18 23:50
-
+---
+date: 2025-01-18 23:50
+draft: false
+---
 Status: #baby 
 
 Tags: #philosophy #humanjourney #legacy #insight 

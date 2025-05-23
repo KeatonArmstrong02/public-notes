@@ -1,5 +1,7 @@
-2025-01-05 14:35
-
+---
+date: 2025-01-05 14:35
+draft: false
+---
 Status: #child
 
 Tags: #productivity

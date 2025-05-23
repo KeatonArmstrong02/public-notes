@@ -1,5 +1,7 @@
-2025-01-08 13:42
-
+---
+date: 2025-01-08 13:42
+draft: false
+---
 Status: #child 
 
 Tags: #models #thinking #pareto

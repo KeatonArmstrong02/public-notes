@@ -1,5 +1,7 @@
-2025-01-31 22:07
-
+---
+date: 2025-01-31 22:07
+draft: false
+---
 Status:
 
 Tags: #building #insight 

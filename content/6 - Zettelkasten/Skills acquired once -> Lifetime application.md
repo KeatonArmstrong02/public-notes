@@ -1,5 +1,7 @@
-2025-01-10 10:57
-
+---
+date: 2025-01-10 10:57
+draft: false
+---
 Status: #adult 
 
 Tags: #skill #building 

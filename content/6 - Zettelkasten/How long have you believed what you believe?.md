@@ -1,5 +1,7 @@
-2025-05-05 00:14
-
+---
+date: 2025-05-05 00:14
+draft: false
+---
 Tags:
 # How long have you believed what you believe?
 

@@ -1,5 +1,7 @@
-2025-01-17 18:23
-
+---
+date: 2025-01-17 18:23
+draft: false
+---
 Status: #draft 
 
 Tags: #contentcreation #mystory 

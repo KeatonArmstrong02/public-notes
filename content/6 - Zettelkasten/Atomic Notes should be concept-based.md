@@ -1,6 +1,7 @@
-
-2025-01-28 13:42
-
+---
+date: 2025-01-28 13:42
+draft: false
+---
 Status:
 
 Tags: #zettelkasten

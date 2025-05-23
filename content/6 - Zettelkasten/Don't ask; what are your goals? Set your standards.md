@@ -1,5 +1,7 @@
-2025-01-21 12:39
-
+---
+date: 2025-01-21 12:39
+draft: false
+---
 Status:
 
 Tags: #habits #building #identity 

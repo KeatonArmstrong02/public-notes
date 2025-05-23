@@ -1,5 +1,7 @@
-2025-01-21 15:08
-
+---
+date: 2025-01-21 15:08
+draft: false
+---
 Status: #revisit 
 
 Tags: #question #philosophy #psychology 

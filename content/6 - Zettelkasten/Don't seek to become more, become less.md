@@ -1,5 +1,7 @@
-2025-03-07 10:57
-
+---
+date: 2025-03-07 10:57
+draft: false
+---
 Status:
 
 Tags: #existential #self-actualization 

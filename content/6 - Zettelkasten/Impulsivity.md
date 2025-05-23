@@ -1,5 +1,7 @@
-2025-02-06 11:25
-
+---
+date: 2025-02-06 11:25
+draft: false
+---
 Status:
 
 Tags: #personality 

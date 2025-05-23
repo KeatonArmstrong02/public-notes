@@ -1,5 +1,7 @@
-2025-01-09 11:31
-
+---
+date: 2025-01-09 11:31
+draft: false
+---
 Status: #baby 
 
 Tags: #skillearning #skill 

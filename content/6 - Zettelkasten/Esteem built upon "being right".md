@@ -1,5 +1,7 @@
-2025-02-24 11:55
-
+---
+date: 2025-02-24 11:55
+draft: false
+---
 Status:
 
 Tags: #self-esteem 

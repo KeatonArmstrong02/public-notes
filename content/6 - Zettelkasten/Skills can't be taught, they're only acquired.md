@@ -1,5 +1,7 @@
-2025-01-28 23:03
-
+---
+date: 2025-01-28 23:03
+draft: false
+---
 Status:
 
 Tags: #skill #skillearning #teaching

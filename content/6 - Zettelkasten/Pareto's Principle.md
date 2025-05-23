@@ -1,5 +1,7 @@
-2025-01-14 08:56
-
+---
+date: 2025-01-14 08:56
+draft: false
+---
 Status: #adult 
 
 Tags: #productivity #building #models 

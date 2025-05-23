@@ -1,5 +1,7 @@
-2025-01-06 14:59
-
+---
+date: 2025-01-06 14:59
+draft: false
+---
 Status: #child 
 
 Tags: #character 

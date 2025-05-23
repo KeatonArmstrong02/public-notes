@@ -1,5 +1,7 @@
-2025-03-09 12:20
-
+---
+date: 2025-03-09 12:20
+draft: false
+---
 Status:
 
 Tags: #epistemology 

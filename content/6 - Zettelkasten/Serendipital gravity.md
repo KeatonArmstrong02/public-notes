@@ -1,5 +1,7 @@
-2025-05-04 23:51
-
+---
+date: 2025-05-04 23:51
+draft: false
+---
 Tags:
 
 # Serendipital gravity

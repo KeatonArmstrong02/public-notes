@@ -1,5 +1,7 @@
-2025-01-21 15:41
-
+---
+date: 2025-01-21 15:41
+draft: false
+---
 Status: #child 
 
 Tags: #contentcreation #learning 

@@ -1,5 +1,7 @@
-2025-01-18 23:47
-
+---
+date: 2025-01-18 23:47
+draft: false
+---
 Status:
 
 Tags: #communication #relationships #dating 

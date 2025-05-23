@@ -1,5 +1,7 @@
-2025-01-19 00:09
-
+---
+date: 2025-01-19 00:09
+draft: false
+---
 Status:
 
 Tags: #building #character 

@@ -1,5 +1,7 @@
-2025-01-19 19:39
-
+---
+date: 2025-01-19 19:39
+draft: false
+---
 Status:
 
 Tags: #modernity #character 

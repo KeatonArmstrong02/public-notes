@@ -1,5 +1,7 @@
-2025-01-21 13:37
-
+---
+date: 2025-01-21 13:37
+draft: false
+---
 Status: #adult 
 
 Tags: #friends #relationships 

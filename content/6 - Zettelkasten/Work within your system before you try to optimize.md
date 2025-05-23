@@ -1,5 +1,7 @@
-2025-02-16 14:31
-
+---
+date: 2025-02-16 14:31
+draft: false
+---
 Status:
 
 Tags: #building 

@@ -1,5 +1,7 @@
-2025-01-16 19:26
-
+---
+date: 2025-01-16 19:26
+draft: false
+---
 Status:
 
 Tags: #building #skill 

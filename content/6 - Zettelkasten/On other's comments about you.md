@@ -1,5 +1,7 @@
-2025-01-17 16:57
-
+---
+date: 2025-01-17 16:57
+draft: false
+---
 Status:
 
 Tags: #autonomy #character 

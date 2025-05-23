@@ -1,5 +1,7 @@
-2025-01-09 11:18
-
+---
+date: 2025-01-09 11:18
+draft: false
+---
 Status: #child 
 
 Tags: #ritual #spirituality #myth #psychology 

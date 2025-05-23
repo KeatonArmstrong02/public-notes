@@ -1,5 +1,7 @@
-2025-01-17 17:08
-
+---
+date: 2025-01-17 17:08
+draft: false
+---
 Status:
 
 Tags: #agency #character #building #mystory 

@@ -1,5 +1,7 @@
-2025-02-10 10:54
-
+---
+date: 2025-02-10 10:54
+draft: false
+---
 Status:
 
 Tags: #learning 

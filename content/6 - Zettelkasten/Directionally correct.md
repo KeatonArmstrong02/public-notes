@@ -1,5 +1,7 @@
-2025-01-16 10:48
-
+---
+date: 2025-01-16 10:48
+draft: false
+---
 Status: #revisit #baby 
 
 Tags: #existential  #humanjourney #spirituality 

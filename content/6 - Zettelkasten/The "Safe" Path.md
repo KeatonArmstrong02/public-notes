@@ -1,5 +1,7 @@
-2025-01-19 18:40
-
+---
+date: 2025-01-19 18:40
+draft: false
+---
 Status:
 
 Tags: #risk #society 

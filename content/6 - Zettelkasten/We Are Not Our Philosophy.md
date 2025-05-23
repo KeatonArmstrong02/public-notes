@@ -1,5 +1,7 @@
-2025-01-16 17:19
-
+---
+date: 2025-01-16 17:19
+draft: false
+---
 Status:
 
 Tags: #philosophy

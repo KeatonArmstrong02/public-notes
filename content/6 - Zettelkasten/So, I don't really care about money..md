@@ -1,5 +1,7 @@
-2025-01-06 14:31
-
+---
+date: 2025-01-06 14:31
+draft: false
+---
 Status: #baby 
 
 Tags: #money

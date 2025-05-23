@@ -1,5 +1,7 @@
-2025-02-11 14:44
-
+---
+date: 2025-02-11 14:44
+draft: false
+---
 Status:
 
 Tags: #existential 

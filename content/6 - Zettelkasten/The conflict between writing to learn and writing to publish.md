@@ -1,5 +1,7 @@
-2025-03-01 12:24
-
+---
+date: 2025-03-01 12:24
+draft: false
+---
 Status:
 
 Tags: #writing 

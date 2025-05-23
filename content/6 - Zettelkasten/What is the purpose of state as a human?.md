@@ -1,6 +1,7 @@
-
-2025-01-09 16:24
-
+---
+date: 2025-01-09 16:24
+draft: false
+---
 Status: #needsource #baby 
 Tags: #psychology #neuroscience 
 

@@ -1,5 +1,7 @@
-2025-01-14 13:28
-
+---
+date: 2025-01-14 13:28
+draft: false
+---
 Status: #child #revisit 
 
 Tags: #skill #learning 

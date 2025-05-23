@@ -1,5 +1,7 @@
-2025-02-05 10:16
-
+---
+date: 2025-02-05 10:16
+draft: false
+---
 Status: #child 
 
 Tags: #building 

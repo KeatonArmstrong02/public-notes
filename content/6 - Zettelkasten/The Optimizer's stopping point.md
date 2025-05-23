@@ -1,5 +1,7 @@
-2025-01-08 11:42
-
+---
+date: 2025-01-08 11:42
+draft: false
+---
 Status: #child 
 
 Tags: #takingaction #psychology #perfectionism #fear

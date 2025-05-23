@@ -1,5 +1,7 @@
-2025-01-20 19:38
-
+---
+date: 2025-01-20 19:38
+draft: false
+---
 Status:
 
 Tags: #character #humanjourney #philosophy 

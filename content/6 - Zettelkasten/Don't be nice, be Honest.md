@@ -1,5 +1,7 @@
-2025-02-03 11:33
-
+---
+date: 2025-02-03 11:33
+draft: false
+---
 Status:
 
 Tags: #humanconnection #character 

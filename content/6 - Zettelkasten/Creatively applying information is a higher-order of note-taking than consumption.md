@@ -1,5 +1,7 @@
-2025-04-18 11:21
-
+---
+date: 2025-04-18 11:21
+draft: false
+---
 Tags: #learning 
 
 # Creatively applying information is a higher-order of note-taking than consumption

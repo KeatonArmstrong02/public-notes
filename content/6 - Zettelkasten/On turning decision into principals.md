@@ -1,5 +1,7 @@
-2025-01-09 17:07
-
+---
+date: 2025-01-09 17:07
+draft: false
+---
 Status: #needsource 
 
 Tags: #thinking #decisionmaking #focus 

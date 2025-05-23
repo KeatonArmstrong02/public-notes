@@ -1,5 +1,7 @@
-2025-01-28 13:34
-
+---
+date: 2025-01-28 13:34
+draft: false
+---
 Status:
 
 Tags: #character 

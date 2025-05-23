@@ -1,5 +1,7 @@
-2025-01-17 16:30
-
+---
+date: 2025-01-17 16:30
+draft: false
+---
 Status:
 
 Tags: #childhood #mystory 

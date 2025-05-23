@@ -1,5 +1,7 @@
-2025-01-09 11:37
-
+---
+date: 2025-01-09 11:37
+draft: false
+---
 Status: #child 
 
 Tags: #metaphor #mystory #meaning #manga

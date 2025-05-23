@@ -1,5 +1,7 @@
-2025-02-11 12:41
-
+---
+date: 2025-02-11 12:41
+draft: false
+---
 Status:
 
 Tags: #physics #productivity 

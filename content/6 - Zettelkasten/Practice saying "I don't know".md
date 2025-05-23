@@ -1,5 +1,7 @@
-2025-02-24 11:42
-
+---
+date: 2025-02-24 11:42
+draft: false
+---
 Status:
 
 Tags: #ignorance

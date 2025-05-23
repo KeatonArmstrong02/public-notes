@@ -1,5 +1,7 @@
-2025-01-08 13:50
-
+---
+date: 2025-01-08 13:50
+draft: false
+---
 Status: #child 
 
 Tags: #skill

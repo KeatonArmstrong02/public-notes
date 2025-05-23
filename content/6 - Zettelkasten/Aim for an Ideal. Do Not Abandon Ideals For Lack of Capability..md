@@ -1,5 +1,7 @@
-2025-01-14 09:47
-
+---
+date: 2025-01-14 09:47
+draft: false
+---
 Status: #child 
 
 Tags: #philosophy #courage 

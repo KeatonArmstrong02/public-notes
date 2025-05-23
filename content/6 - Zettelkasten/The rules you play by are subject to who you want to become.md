@@ -1,5 +1,7 @@
-2025-02-21 21:24
-
+---
+date: 2025-02-21 21:24
+draft: false
+---
 Status:
 
 Tags: #character #building #self-actualization

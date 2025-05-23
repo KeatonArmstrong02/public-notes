@@ -1,6 +1,7 @@
-
-2025-01-09 16:26
-
+---
+date: 2025-01-09 16:26
+draft: false
+---
 Status: #draft #baby 
 
 Tags: #philosophy #mystory #meaning 

@@ -1,5 +1,7 @@
-2025-01-09 13:23
-
+---
+date: 2025-01-09 13:23
+draft: false
+---
 Status: #draft 
 
 Tags: #religion #meaning 

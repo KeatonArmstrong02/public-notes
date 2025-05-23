@@ -1,5 +1,7 @@
-2025-01-18 23:09
-
+---
+date: 2025-01-18 23:09
+draft: false
+---
 Status:
 
 Tags: #writing #contentcreation 

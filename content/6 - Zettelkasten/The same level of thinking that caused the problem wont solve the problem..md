@@ -1,5 +1,7 @@
-2025-01-05 22:47
-
+---
+date: 2025-01-05 22:47
+draft: false
+---
 Status: #child
 
 Tags: #thinking #problemsolving #models

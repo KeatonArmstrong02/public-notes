@@ -1,5 +1,7 @@
-2025-05-04 10:10
-
+---
+date: 2025-05-04 10:10
+draft: false
+---
 Tags:
 
 # Reverse engineer your regrets

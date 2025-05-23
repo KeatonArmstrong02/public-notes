@@ -1,5 +1,7 @@
-2025-02-11 15:21
-
+---
+date: 2025-02-11 15:21
+draft: false
+---
 Status:
 
 Tags: #psychology 

@@ -1,5 +1,7 @@
-2025-02-02 08:34
-
+---
+date: 2025-02-02 08:34
+draft: false
+---
 Status:
 
 Tags: #gametheory

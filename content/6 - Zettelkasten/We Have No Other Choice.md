@@ -1,5 +1,7 @@
-2025-01-17 16:36
-
+---
+date: 2025-01-17 16:36
+draft: false
+---
 Status:
 
 Tags: #spirituality #philosophy #character 

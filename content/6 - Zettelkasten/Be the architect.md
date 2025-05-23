@@ -1,5 +1,7 @@
-2025-01-21 11:48
-
+---
+date: 2025-01-21 11:48
+draft: false
+---
 Status:
 
 Tags: #beliefs #freethinking 

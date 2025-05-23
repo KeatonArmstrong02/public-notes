@@ -1,5 +1,7 @@
-2025-01-09 11:25
-
+---
+date: 2025-01-09 11:25
+draft: false
+---
 Status: #child #needsource
 
 Tags: #overcoming #learning #humanjourney

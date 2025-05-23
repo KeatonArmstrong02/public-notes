@@ -1,5 +1,7 @@
-2025-01-18 23:20
-
+---
+date: 2025-01-18 23:20
+draft: false
+---
 Status:
 
 Tags: #psychology #peterson #humanjourney 

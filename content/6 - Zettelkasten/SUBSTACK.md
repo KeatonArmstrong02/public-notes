@@ -1,5 +1,7 @@
-2025-01-09 15:05
-
+---
+date: 2025-01-09 15:05
+draft: false
+---
 Status: #draft 
 
 Tags: #contentcreation #thinking #logic

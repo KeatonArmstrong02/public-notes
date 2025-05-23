@@ -1,5 +1,7 @@
-2025-02-01 20:53
-
+---
+date: 2025-02-01 20:53
+draft: false
+---
 Status:
 
 Tags: #culture #sociology

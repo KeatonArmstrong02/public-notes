@@ -1,5 +1,7 @@
-2025-05-05 00:10
-
+---
+date: 2025-05-05 00:10
+draft: false
+---
 Tags: #philosophy 
 
 # Why do you believe what you believe?

@@ -1,5 +1,7 @@
-2025-01-17 17:03
-
+---
+date: 2025-01-17 17:03
+draft: false
+---
 Status: #revisit #makeessay
 
 Tags: #autonomy #agency #beliefs #character 

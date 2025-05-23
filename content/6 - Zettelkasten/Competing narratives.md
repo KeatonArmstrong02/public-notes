@@ -1,5 +1,7 @@
-2025-02-19 00:17
-
+---
+date: 2025-02-19 00:17
+draft: false
+---
 Status:
 
 Tags: #relationships #psychology 

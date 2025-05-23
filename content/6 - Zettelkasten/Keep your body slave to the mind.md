@@ -1,5 +1,7 @@
-2025-01-18 23:43
-
+---
+date: 2025-01-18 23:43
+draft: false
+---
 Status: #draft 
 
 Tags: #stoicism 

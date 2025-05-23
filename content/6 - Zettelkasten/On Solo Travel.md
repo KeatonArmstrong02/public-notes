@@ -1,5 +1,7 @@
-2025-01-07 12:00
-
+---
+date: 2025-01-07 12:00
+draft: false
+---
 Status:
 
 Tags: #travel #travelmeta

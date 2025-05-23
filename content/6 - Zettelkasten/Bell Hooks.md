@@ -1,5 +1,7 @@
-2025-01-17 18:20
-
+---
+date: 2025-01-17 18:20
+draft: false
+---
 Status:
 
 Tags: #masculinity

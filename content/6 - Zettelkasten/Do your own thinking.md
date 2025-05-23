@@ -1,5 +1,7 @@
-2025-01-27 22:49
-
+---
+date: 2025-01-27 22:49
+draft: false
+---
 Status:
 
 Tags: #freethinking #learning #epistemology 

@@ -1,5 +1,7 @@
-2025-01-19 19:51
-
+---
+date: 2025-01-19 19:51
+draft: false
+---
 Status:
 
 Tags: #habits #identity #character 

@@ -1,5 +1,7 @@
-2025-01-30 13:35
-
+---
+date: 2025-01-30 13:35
+draft: false
+---
 Status:
 
 Tags: #productivity 

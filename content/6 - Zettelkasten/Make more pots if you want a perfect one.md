@@ -1,5 +1,7 @@
-2025-01-28 15:09
-
+---
+date: 2025-01-28 15:09
+draft: false
+---
 Status:
 
 Tags: #perfectionism #building #skillearning 

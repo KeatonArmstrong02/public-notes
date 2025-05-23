@@ -1,9 +1,9 @@
-2025-01-06 14:52
-
-Status: #baby  
-
-Tags: #character
-
+---
+date: 2025-01-06 14:52
+draft: 
+tags:
+  - "#character"
+---
 # Accountability
 
 We may not be at fault, but we are all responsible for every result in our lives completely.

@@ -1,5 +1,7 @@
-2025-01-27 17:31
-
+---
+date: 2025-01-27 17:31
+draft: false
+---
 Status:
 
 Tags: #learning #thinking #epistemology

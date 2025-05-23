@@ -1,5 +1,7 @@
-2025-01-05 14:51
-
+---
+date: 2025-01-05 14:51
+draft: false
+---
 Status: #child 
 
 Tags: #thinking

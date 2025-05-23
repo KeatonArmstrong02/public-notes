@@ -1,5 +1,7 @@
-2025-01-17 09:18
-
+---
+date: 2025-01-17 09:18
+draft: false
+---
 Status:
 
 Tags: #learning #humanjourney 

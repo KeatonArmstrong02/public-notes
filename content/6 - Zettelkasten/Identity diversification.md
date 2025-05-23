@@ -1,5 +1,7 @@
-2025-01-07 12:15
-
+---
+date: 2025-01-07 12:15
+draft: false
+---
 Status: #child
 
 Tags: #character #identity 

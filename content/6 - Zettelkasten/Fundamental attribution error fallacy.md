@@ -1,5 +1,7 @@
-2025-01-29 10:40
-
+---
+date: 2025-01-29 10:40
+draft: false
+---
 Status:
 
 Tags: #logic  

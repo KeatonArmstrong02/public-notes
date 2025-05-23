@@ -1,5 +1,7 @@
-2025-01-18 23:13
-
+---
+date: 2025-01-18 23:13
+draft: false
+---
 Status:
 
 Tags: #ambition #mystory 

@@ -1,5 +1,7 @@
-2025-01-17 18:31
-
+---
+date: 2025-01-17 18:31
+draft: false
+---
 Status:
 
 Tags: #learning #insight #memory 

@@ -1,5 +1,7 @@
-2025-01-12 19:30
-
+---
+date: 2025-01-12 19:30
+draft: false
+---
 Status: #revisit #baby 
 
 Tags: #productivity #building 

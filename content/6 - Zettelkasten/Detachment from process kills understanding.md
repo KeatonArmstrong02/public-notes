@@ -1,5 +1,7 @@
-2025-01-18 23:37
-
+---
+date: 2025-01-18 23:37
+draft: false
+---
 Status: oldnote
 
 Tags: #thinking #theorizing

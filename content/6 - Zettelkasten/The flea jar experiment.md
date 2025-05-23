@@ -1,5 +1,7 @@
-2025-02-02 09:12
-
+---
+date: 2025-02-02 09:12
+draft: false
+---
 Status:
 
 Tags: #study #experiment

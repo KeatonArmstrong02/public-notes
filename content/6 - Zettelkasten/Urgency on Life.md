@@ -1,5 +1,7 @@
-2025-01-16 17:21
-
+---
+date: 2025-01-16 17:21
+draft: false
+---
 Status:
 
 Tags: #character #philosophy 

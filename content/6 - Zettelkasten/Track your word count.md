@@ -1,5 +1,7 @@
-2025-02-13 20:52
-
+---
+date: 2025-02-13 20:52
+draft: false
+---
 Status:
 
 Tags: #writing #habits 

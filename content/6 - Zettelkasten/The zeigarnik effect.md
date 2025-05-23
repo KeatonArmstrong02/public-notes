@@ -1,5 +1,7 @@
-2025-02-05 09:22
-
+---
+date: 2025-02-05 09:22
+draft: false
+---
 Status:
 
 Tags: #psychology #productivity #tool

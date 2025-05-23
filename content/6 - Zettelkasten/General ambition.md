@@ -1,5 +1,7 @@
-2025-01-20 20:37
-
+---
+date: 2025-01-20 20:37
+draft: false
+---
 Status:
 
 Tags: #building #ambition 

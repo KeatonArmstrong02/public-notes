@@ -1,5 +1,7 @@
-2025-02-05 11:47
-
+---
+date: 2025-02-05 11:47
+draft: false
+---
 Status:
 
 Tags: #conflict

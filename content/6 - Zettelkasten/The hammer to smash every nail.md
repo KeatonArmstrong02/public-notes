@@ -1,5 +1,7 @@
-2025-01-18 23:57
-
+---
+date: 2025-01-18 23:57
+draft: false
+---
 Status:
 
 Tags: #models #thinking 

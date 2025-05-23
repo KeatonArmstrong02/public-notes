@@ -1,5 +1,7 @@
-2025-01-08 14:08
-
+---
+date: 2025-01-08 14:08
+draft: false
+---
 Status: #child 
 
 Tags: #decisionmaking #thinking 

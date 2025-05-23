@@ -1,5 +1,7 @@
-2025-01-07 12:17
-
+---
+date: 2025-01-07 12:17
+draft: false
+---
 Status: #baby 
 
 Tags: #learning #discomfort

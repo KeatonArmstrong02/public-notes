@@ -1,5 +1,7 @@
-2025-01-21 13:46
-
+---
+date: 2025-01-21 13:46
+draft: false
+---
 Status: #revisit 
 
 Tags: #building #contentcreation #creativity 

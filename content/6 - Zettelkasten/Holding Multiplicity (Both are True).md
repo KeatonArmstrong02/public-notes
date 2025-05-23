@@ -1,5 +1,7 @@
-2025-01-09 16:34
-
+---
+date: 2025-01-09 16:34
+draft: false
+---
 Status: #baby #needsource 
 
 Tags: #psychology #philosophy #thinking 

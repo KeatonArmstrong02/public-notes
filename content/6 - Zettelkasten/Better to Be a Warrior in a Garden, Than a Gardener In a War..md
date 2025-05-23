@@ -1,5 +1,7 @@
-2025-01-12 17:36
-
+---
+date: 2025-01-12 17:36
+draft: false
+---
 Status:
 
 Tags: #philosophy #morals #character 

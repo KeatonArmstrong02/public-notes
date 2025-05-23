@@ -1,5 +1,4 @@
 ---
-title: <% tp.file.title %>
 date: 2025-01-17 16:11
 draft: false
 ---

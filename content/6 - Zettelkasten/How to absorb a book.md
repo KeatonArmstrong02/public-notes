@@ -1,5 +1,7 @@
-2025-01-25 20:34
-
+---
+date: 2025-01-25 20:34
+draft: false
+---
 Status:
 
 Tags: #learning #notetaking 

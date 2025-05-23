@@ -1,5 +1,7 @@
-2025-02-11 13:01
-
+---
+date: 2025-02-11 13:01
+draft: false
+---
 Status:
 
 Tags: #memory 

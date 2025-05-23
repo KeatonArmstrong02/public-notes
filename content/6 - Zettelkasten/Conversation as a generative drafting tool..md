@@ -1,5 +1,7 @@
-2025-01-19 19:06
-
+---
+date: 2025-01-19 19:06
+draft: false
+---
 Status:
 
 Tags: #thinking

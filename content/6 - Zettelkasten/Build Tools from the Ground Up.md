@@ -1,5 +1,7 @@
-2025-01-09 16:42
-
+---
+date: 2025-01-09 16:42
+draft: false
+---
 Status: #baby #needsource 
 
 Tags: #perspective #building #productivity 

@@ -1,5 +1,7 @@
-2025-01-21 13:43
-
+---
+date: 2025-01-21 13:43
+draft: false
+---
 Status: #adult 
 
 Tags: #meaning #advice 

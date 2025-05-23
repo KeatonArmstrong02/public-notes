@@ -1,5 +1,7 @@
-2025-01-19 18:59
-
+---
+date: 2025-01-19 18:59
+draft: false
+---
 Status:
 
 Tags: #emotion #psychology 

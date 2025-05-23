@@ -1,5 +1,7 @@
-2025-01-14 09:35
-
+---
+date: 2025-01-14 09:35
+draft: false
+---
 Status: #child 
 
 Tags: #mystory 

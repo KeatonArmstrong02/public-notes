@@ -1,5 +1,7 @@
-2025-01-28 14:48
-
+---
+date: 2025-01-28 14:48
+draft: false
+---
 Status:
 
 Tags: #nuance #character 
