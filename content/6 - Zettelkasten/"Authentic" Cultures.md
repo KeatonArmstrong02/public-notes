@@ -1,8 +1,7 @@
-2025-01-19 00:05
-
-Status:
-
-Tags:
+---
+date: 2025-01-19 00:05
+draft:
+---
 
 # "Authentic" Cultures
 

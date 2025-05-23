@@ -21,7 +21,7 @@ for filename in os.listdir(folder):
         else:
             continue
 
-        # Find date in body (at the start, before tags)
+        # Find date in body (anywhere)
         match = date_pattern.search(body)
         if match:
             date_str = f"{match.group(1)}T{match.group(2)}:00"

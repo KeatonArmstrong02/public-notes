@@ -1,8 +1,8 @@
-2025-01-17 16:11
-
-Status:
-
-Tags: #gametheory #insight #performance
+---
+title: <% tp.file.title %>
+date: 2025-01-17 16:11
+draft: false
+---
 
 # 2 Games of Tennis
 

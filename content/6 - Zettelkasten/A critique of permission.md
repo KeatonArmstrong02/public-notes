@@ -1,11 +1,8 @@
 ---
 date: 2025-01-08 12:23
-draft: false
 tags:
   - agency
-  - building
-  - component
-  - child
+draft: false
 ---
 # A critique of permission
 
