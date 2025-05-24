@@ -15,3 +15,4 @@ Meta-relationship
 
 Communication:
 [[Communication with guards up is pointless]]
+[[Use tribe speak when talking about male and female culture]]
