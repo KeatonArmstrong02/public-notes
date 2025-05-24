@@ -1,7 +1,3 @@
-The second-brain
-[[How to Take Smart Notes by S. Adams]]
-
-[[Knowledge systems should accrete]]
 
 
 The Zettelkasten is built upon atomic notes:
@@ -17,5 +13,12 @@ These notes are free to interconnect, allowing for analogous association:
 • [[Increasing contact points]]
 
 
-On thinker's sharing ideas
+The second-brain
+[[How to Take Smart Notes by S. Adams]]
+[[Knowledge systems should accrete]]
+
+
+
+Public access is an interesting way of sharing ideas:
 [[Public zettelkasten allow for self-study within someone else's second brain]]
+[[Digital Garden]]
