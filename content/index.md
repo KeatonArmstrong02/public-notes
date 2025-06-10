@@ -14,7 +14,7 @@ I have 4 folders:
 
 1. Source material - notes I take from a source (links & page numbers when possible)
 2. Tags - Half used and messy, but they're a nice catch-all.
-3. ==MOCs - Map-Of-Content==. A MOC is a little navigation hub I make when a subject gets more densely connected. These will be the best starting points.
+3. MOCs - Map-Of-Content. A MOC is a little navigation hub I make when a subject gets more densely connected. These will be the best starting points.
 4. Zettelkasten - Home for all content. Finished [[Atomic notes]] go into this folder.
 
 You can also navigate through clusters of notes with the graph view at the bottom (mobile) or on the side (desktop), each of the dots are notes and have links showing its connection to others. The more lines, the more connections an idea has.
@@ -26,7 +26,6 @@ Jump into [[Zettelkasten]] to get more familiar with this style of note-taking.
 Read about my experience adopting the system in [this essay](https://keatonarmstrong.substack.com/p/how-to-waste-everything-you-learn?r=1to3gv)
 
 ----
-
 Philosophy here: [[Why did I make a website?]]
 
 

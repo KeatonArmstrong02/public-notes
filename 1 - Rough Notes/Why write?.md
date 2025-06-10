@@ -13,9 +13,6 @@ Intended audience: Myself, not anyone else on the idea of writing.
 
 
 
-
-
-
 What will happen if I don't?
 
 I worry that I’ll find settle for answers before I’ve even recorded the question. I fear there will be no record of just how much I’ve struggled to become who I am. 

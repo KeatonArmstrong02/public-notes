@@ -10,7 +10,7 @@ Tags: #languagelearning
 
 In order to understand a message, we need to first understand its parts and how they relate. 
 
-because [[Early language lessons focus on chunks]] it's like learning openings in chess when it comes to conversations.
+because [[Early language lessons should focus on chunks]] it's like learning openings in chess when it comes to conversations.
 
 Yet once we're out of the opening, the game progresses into near-infinite complexity. We can't learn each move, rather we need a broader understanding of messages.
 

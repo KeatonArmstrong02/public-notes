@@ -1,19 +1,22 @@
 
-[[Early language lessons focus on chunks]]
+[[Language is a medium for thoughts]]
 
 
-Tools to use as a learner:
+For learners:
+[[Early language lessons should focus on chunks]]
 
 Vocabulary:
 [[Pareto's Principle]]
 [[Spaced repetition systems]]
 
-Underrated difficulty
+Understand the difficulties
 [[The hardest part of learning a language is basic comprehension]]
-
-Mental struggles: 
 [[Lacking vocabulary for expression in language]]
 
 The fun:
 [[The beauty of the language barrier]]
-[[Etymology and Linguistics are interesting bonuses]]
+[[Etymology and Linguistics are interesting bonuses to learning a language]]
+
+
+Personal history and interest:
+[[My personal interest in language learning]]
