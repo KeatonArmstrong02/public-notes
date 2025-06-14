@@ -22,7 +22,7 @@ When me and Kendall are doing better as individuals the relationship can do bett
 
 When we're not doing as well it will alter how we relate to each other, but if we keep in mind how it will affect *The Relationship* we can prepare contingencies to protect it.
 
-This helps us practice [[It's not you vs me, it's you and me vs The Problem]] as what we are contending with is how we feel about *The Relationship*, not necessarily each other.
+This helps us practice [[It's not you vs me, it's you & me vs The Problem]] as what we are contending with is how we feel about *The Relationship*, not necessarily each other.
 
 
 

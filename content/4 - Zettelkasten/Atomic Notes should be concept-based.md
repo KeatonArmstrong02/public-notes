@@ -1,21 +1,24 @@
 ---
 date: 2025-01-28 13:42
 draft: false
+tags:
+  - zettelkasten
 ---
+# Atomic notes should be concept-based
 
-Tags: #zettelkasten
+You only need to understand a concept once. Once you understand a *concept* you will always recognize it.
 
-# Atomic Notes should be concept-based
+Before obsidian, I repeated some concepts with dozens of apple notes without realizing it. 
 
-Before obsidian, I repeated the same ideas within my notes dozens of times without realizing it. I also had run-on notes that tried to draw from too many things at once, losing effectiveness.
+Because I hadn't captured the concept well enough, I felt the need to make more notes. Instead of editing what I had until I understood the core of the idea I would spew more story or metaphor at it without refining it. The fact that I couldn't recognize the notes as [[Same pattern; different name]] goes to show a lack of understanding.
 
-Both of these results are from lack of capturing the *concept* in my note. To build upon the previous idea, it's much better to edit and add to the note rather than duplicate it. 
+Only a conceptual note has the solidity to be cemented as [[Atomic notes]].
 
-You only need to understand a concept once.
+We also have the goal that [[quartz/content/4 - Zettelkasten/Knowledge systems should accrete|Knowledge systems should accrete]], notes should be able to build upon each other through [[High-fidelity association]] rather than bleeding the concepts into each other and ending up with dependencies.
 
-The name it's called or the story told to drive it home won't matter anymore because *you* understand it. 
 
-Of course, how we articulate the concept matters. See [[Writing forces articulacy]]
+
+Of course, there can be benefits to different stylistic expressions of ideas. See [[Learning happens in layers]] and 
 #### Reference
 
 

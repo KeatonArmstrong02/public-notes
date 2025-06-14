@@ -14,3 +14,6 @@ Without the resources to spend, designer told us he had another plan. He was goi
 Those with the gene would be.. different, they would lack to restrictions on the will to power just as we had broken out of centuries ago. Emotions are a scourge on consciousness really, a flaw in the design.
 
 Psychopathy.
+
+
+It was the 36th anniversary of our first communication with alien life, Our children who barely understood what was happening then are now ushering us into a golden age. A beautiful age where our life finally, decidedly, does not live alone in the universe.

@@ -1,14 +1,11 @@
-2025-02-12 10:30
-
-Status:
-
-Tags:
-# Mastery is fluency within a medium
+---
+date: 2025-02-12 10:30
+---
 
 Say I want to become a master filmmaker.
 
 Try first [[Deconstructing into Sub-Skills]], for filmmaking we have: camerawork, editing, storyboarding, script.
-You can work at each one of these skills to a high level one at a time, or because we [[Start with the full picture, then layer on resolution]] we know we can kickstart our learning into higher levels of [[Bloom's Taxonomy]] by evaluating and comparing how these sub-skills integrate with one another to form the final product rather than isolated information.
+You can work at each one of these skills to a high level one at a time, or because we [Start with the full picture, then layer on resolution](Learning%20happens%20in%20layers) we know we can kickstart our learning into higher levels of [[Bloom's Taxonomy]] by evaluating and comparing how these sub-skills integrate with one another to form the final product rather than isolated information.
 
 In a sub-optimal version of this dream, one might try to master camerawork, or scriptwriting while ignoring the rest believing they must master one part before they move on.
 

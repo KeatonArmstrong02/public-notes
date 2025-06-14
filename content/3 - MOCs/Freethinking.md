@@ -1,5 +1,6 @@
-*"You should fear not the people who ask questions, but the people who fear questions."*
+[[Freethinking is intellectual agency]]
 
+*"You should fear not the people who ask questions, but the people who fear questions."*
 
 People who inspire and emulate freethinking:
 [[James Dyson]]
@@ -7,6 +8,10 @@ People who inspire and emulate freethinking:
 
 What keeps us from freethinking?
 [[Social conditioning]]
+[[Social algorithms are anti-freethinking]]
+
+
+[[Social media makes more sense as an augment of what you do.]]
 
 
 How can we achieve freethinking?
@@ -19,3 +24,4 @@ Why should we seek to free our thoughts?
 
 What is my relationship with freethinking?
 [[You Must Find the Truth for Yourself]]
+

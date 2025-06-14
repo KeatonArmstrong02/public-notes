@@ -16,7 +16,5 @@ So this brings me back to writing. *I think it's dangerous for me to write too c
 
 Either you have real authority or you can credit the ideas.
 
-
-This creates an economy of teaching at the beginning of a skill, marketers like Dan Kow, KNOW that 95% of the market is beginners, so he knows to focus on them, while funneling up to higher ticket for higher skill levels (Iman Gadzhi also does this)
 #### Reference
 

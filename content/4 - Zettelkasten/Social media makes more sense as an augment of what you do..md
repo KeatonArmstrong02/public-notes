@@ -1,10 +1,10 @@
 ---
-date: 2025-05-23 14:13
-last_modified: 2025-01-20 19:53
+date: 2025-01-20 19:53
+last_modified: 
 draft: false
 ---
-#contentcreation #building 
-Rather than "Doing social media" 
+
+I recognize most of my loathing for socials is the people that "Do social media"
 
 Look at how we all started on the internet initially, before a flood of doing it because it could be a job.
 

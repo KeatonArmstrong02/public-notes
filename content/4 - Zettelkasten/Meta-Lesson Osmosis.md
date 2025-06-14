@@ -11,7 +11,7 @@ Feynman talks about scientific integrity as the greater lesson within experiment
 
 3% Man/Spiritual man/Pickup tries to teach men this osmosis meta lessson, "What is the spirit which makes a man attractive?" Their answer, Masculinity. It's a hard lesson to teach directly but hope that you would understand the whole picture.
 
-Perhaps it's these lessons which [[Using schema]] would help us start to see the inter-connectedness firsthand rather than trying to learn linearly from the flow of the books.
+Perhaps it's these lessons which [[Use schema]] would help us start to see the inter-connectedness firsthand rather than trying to learn linearly from the flow of the books.
 
 #### Reference
 [[Surely You're Joking Mr. Feynman!]]

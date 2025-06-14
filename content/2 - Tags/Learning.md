@@ -13,7 +13,7 @@ Learning is hard. Remember that
 [[Flimsy understanding]]
 
 
-Learning is your job, you need to decide for yourself and think for yourself:
+Learning is your job, decide for yourself and think for yourself:
 [[Do your own thinking]]
 [[The problem of learning lessons distilled from others]]
 
@@ -33,7 +33,7 @@ Lateral application is necessary to mastery, mastery is not linear:
 
 Understand the big picture at low resolution > High resolution on minutiae
 [[Meta-Lesson Osmosis]]
-[[Learning occurs in layers]]
+[[Learning happens in layers]]
 [[Insight requires context]] + [[Higher resolution understanding]]
 
 

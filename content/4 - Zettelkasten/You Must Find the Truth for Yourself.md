@@ -23,10 +23,10 @@ I avoided doing thing that wouldn't give me fulfillment for long enough so I cou
 I focused entirely for 2 years over what I want to do with my life, all the while my body and energy detoured into a relationship.
 It was never quite *what I wanted* and through consultation with most parts of me, still not what I needed. and yet. A year and a half of what I felt could end at any moment turned into greater dividends than I could have ever expected. I came to *KNOW* love. In every way I wanted to avoid and put off for later.
 
-I've thought I wanted things only to realize I didn't care about them.
-I've thought I hated some things only to realize I love them.
+I've thought I desired only to realize I didn't care about them.
+I've thought I despised things only to realize I love them.
 
-The outside, the inside, the wise, the kind, the intelligent, my consciousness, the "real me" behind all the influence of society. All failed me at some point or another. Not in betrayal and yet every time it felt like it, betrayal to loyalty to any idea we've ever held.
+The outside, the inside, the wise, the kind, the intelligent, my consciousness, the "real me" behind all the influence of society. All failed me at some point or another. Not in betrayal and yet every time it felt like it, an eventual loss of loyalty to any idea we've ever held.
 
 So what *Should* I have done? Who *should* I have listened to?
 
