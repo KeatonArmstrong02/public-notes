@@ -1,27 +1,23 @@
 ---
 date: 2025-02-06 22:25
 draft: false
+tags:
+  - languagelearning
 ---
-Status:
-
-Tags: #languagelearning 
-
-# The hardest part of learning a language is basic comprehension
-
+---
 In order to understand a message, we need to first understand its parts and how they relate. 
 
-because [[Early language lessons should focus on chunks]] it's like learning openings in chess when it comes to conversations.
+because [[Early language lessons should focus on chunks]] it's like learning openings in chess when it comes to conversations. You memorize a whole sequence at a time.
 
-Yet once we're out of the opening, the game progresses into near-infinite complexity. We can't learn each move, rather we need a broader understanding of messages.
+Once we're out of the opening, the game progresses into near-infinite complexity. We can't learn each move, rather we need a broader understanding of messages to continue the conversation.
 
-We should turn our focus onto the parts that make up the messages, words.
+We should point our focus onto the parts that make up the messages, words.
 
-It is only when we have a near-complete understanding of all the parts in a message can even have hope for comprehending the message. (how those parts relate to each other to communicate meaning)
+It is only when we have a near-complete understanding of all the parts in a message can we have hope for comprehending the message. (how those parts relate to each other to communicate meaning)
 
-Even using [[Pareto's Principle]] we need to bulldoze 500-1500 most common words (using [[Spaced repetition systems]]) to build a foundation of understanding, this becomes our basic comprehension so we can start to comprehend messages rather than juggling too many parts which we can't understand.
+Even using [[Pareto's Principle]] we need to bulldoze 1000-1500 most common words (using [[Spaced repetition systems]]) to build a foundation of understanding, this becomes our basic comprehension so we can start to comprehend messages rather than juggling too many parts which we can't understand.
 
-
-So, before we can even engage in meaningful conversation beyond our first chunks, the bulk effort of learning a language to practical use is building a foundation of comprehension. This must be done before we can turn our focus to [[Comprehensible input]]
+So, before we can even engage in meaningful conversation beyond our first chunks, the bulk effort of learning a language to practical use is building a foundation of comprehension. This must be done before we can turn our focus to [[Comprehensible input]].
 
 -----
 Understanding messages

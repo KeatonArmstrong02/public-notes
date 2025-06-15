@@ -9,6 +9,7 @@ People who inspire and emulate freethinking:
 What keeps us from freethinking?
 [[Social conditioning]]
 [[Social algorithms are anti-freethinking]]
+[[Pure contrarianism isn't freethinking]]
 
 
 [[Social media makes more sense as an augment of what you do.]]

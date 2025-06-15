@@ -4,6 +4,7 @@ date: "2025-06-12 15:15"
 draft: false
 ---
 -----
+### Notes:
 More of an exploration of philosophy than it is a story with any semblance of a plot. Regardless, it's an incredible idea of a dystopia which I find more compelling--in the sense of its morbid possibility--than others in the genre.
 
 p.16 on Epsilon embryo conditioning "and that, that is the secret of happiness and virtue--liking what you've got to do. All conditioning aims at that: making people like their un-escapable social destiny."
