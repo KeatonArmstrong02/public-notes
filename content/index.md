@@ -8,7 +8,7 @@ This is where I learn in public and post my notes which don't make it onto my [s
 
 You'll notice that this isn't a typical blog, it's a [[Digital Garden]].
 
-Contact me through [Email](keatarmstrong@outlook.com) or [Instagram](https://www.instagram.com/keat.armstrong/#)
+Contact me through [email](mailto:keatarmstrong@outlook.com) or [Instagram](https://www.instagram.com/keat.armstrong/#)
 
 ---
 ### How it works
