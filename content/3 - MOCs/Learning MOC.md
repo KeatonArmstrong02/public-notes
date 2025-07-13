@@ -7,7 +7,7 @@ Modern solutions:
 [[How to learn in the age of influence]]
 
 Learning is hard. Remember that
-[[quartz/1 - Rough Notes/Understanding requires effortful engagement]]
+[[Understanding requires effortful engagement]]
 [[Misinterpreted-effort hypothesis]]
 [[If you don’t feel awkward, you’re learning at a snail’s pace]]
 [[Flimsy understanding]]
@@ -40,4 +40,4 @@ Understand the big picture at low resolution > High resolution on minutiae
 [[Good enough plateau]]
 [[Weakness Overcome is the Best Strength]]
 
-[[Deconstructing into Sub-Skills]]
+[[Deconstruct into Sub-Skills]]

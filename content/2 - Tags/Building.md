@@ -2,8 +2,8 @@
 The practical:
 [[The Second Start]]
 [[Plowing Traction]]
-[[Build Tools from the Ground Up]]
-[[How to Prioritize Your Life]]
+[[Build tools ground up]]
+[[Prioritization]]
 [[Pareto's Principle]]
 
 "The exceptional person isn’t born out of talent but rather their systems"
@@ -14,14 +14,14 @@ The psychological:
 
 
 The Personal:
-[[What I had done is become a junkie. An addict.]]
 
-People who don’t apply even minimal effort have no right to envy those with talent. Unsuccessful people are unsuccessful because they can’t imagine the effort that successful people have invested.
+
+People who don’t apply even minimal effort have no right to envy those with talent. Cynical people remain unsuccessful because they can’t even imagine the effort that successful people have invested.
 
 
 The keys to success:
 • Know exactly what you want to do.
-• Know just what you will have to sacrifice to achieve that goal.
+• Know just what you will have to sacrifice to achieve it.
 • Resolve to make the sacrifice.
 
 What price will I have to pay to achieve my goal?

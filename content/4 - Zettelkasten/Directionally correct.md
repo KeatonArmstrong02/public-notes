@@ -1,18 +1,17 @@
 ---
 date: 2025-01-16 10:48
 draft: false
+tags:
+  - existential
+  - humanjourney
+  - spirituality
 ---
-Status: #revisit #baby 
-
-Tags: #existential  #humanjourney #spirituality 
-
-# Directionally correct
 You don't need the exact destination, but if you can move 51% in the right direction you're doing better.
 
-Sometimes we don't even know the better direction, we just know when we're moving the *wrong* direction.
+Most of the time we don't know the best direction, we just know when we're moving in the *wrong*direction.
 
-Either of these work, because when we listen to our compass we know where to direct our attention even if we don't understand the full picture.
+Even if we don't see the full picture, or can rate our goals in a linear fashion, directionally correct can lead us to a better sense of discovery even when we don't feel a direct sense of *progress*. Trying to quantify progress can be too strict of a goal at times, but directionally correct allows us to make more lateral and creative moves in our life.
 
-It's like the beginning of a spiritual idea and as we know, Ideas don't come out fully formed, we just have to work on them.
 #### Reference
 Somewhere
+Partly (Tiny Experiments)

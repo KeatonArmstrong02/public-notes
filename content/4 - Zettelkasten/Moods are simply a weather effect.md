@@ -9,8 +9,6 @@ Status:
 
 Tags: #stoicism #emotion
 
-# Our moods are simply a weather effect
-
 Actor **Stephen Fry** on getting through the bad days:
 "I've found that it's of some help to think of one's moods and feelings about the world as being similar to weather.
 Here are some obvious things about the weather: It’s real. You can't change it by wishing it away. If it's dark and rainy it really is dark and rainy and you can't alter it. It might be dark and rainy for two weeks in a row.

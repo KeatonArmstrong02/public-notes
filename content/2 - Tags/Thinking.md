@@ -1,10 +1,10 @@
 
 [[Cutting through Propaganda]]
 [[The same level of thinking that caused the problem wont solve the problem.]]
-[[Many times the most important question to ask isn’t the “deepest” one]]
+[[The most important question probably isn't the “deepest” one]]
 [[Pareto's Principal applied to circles of competence.]]
 [[On Decision-Making]]
-[[On turning decision into principals]]
+[[Turn decision into principal]]
 [[Statistics on loss of data from second-hand sources]]
 [[SUBSTACK]]
 [[Belief Timeline]]

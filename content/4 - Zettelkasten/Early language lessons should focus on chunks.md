@@ -10,9 +10,9 @@ Starting from the very beginning when we know nothing of a language can seem dau
 
 Think of these as learning openings in chess. You only have to memorize a few moves and responses. There is low variability here but at the least you're able to communicate a simple idea to someone and (sometimes) understand a basic response.
 
-Lots of language learning material for beginners focus on interaction types (going to the store, ordering food, basic greetings and personal information).
+Early learning material focuses on common interaction types (going to the store, ordering food, basic greetings and personal information).
 
-This is the correct, strongest approach to language learning if you only expect to spend a short amount of time immersed in the target language. Though this approach quickly begins to break down and lose all effectiveness once the game opens up into free-form conversation.
+This is a strong approach to learning if you only expect to spend a short amount of time immersed in the target language. Though, sticking to this approach is one of the greatest faults in traditional learning. Beyond absolute beginner or survival, this method breaks down once the game opens up into free-form conversation.
 
 Your chunks have no flexibility and you are left with memorized information which cannot be regurgitated if you aren't given a specific prompt. We need to reduce chunk size so we can start building up our flexibility with the language. See [[The hardest part of learning a language is basic comprehension]].
 #### Reference

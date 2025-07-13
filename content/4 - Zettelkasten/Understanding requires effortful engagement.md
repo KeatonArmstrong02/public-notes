@@ -1,13 +1,11 @@
 ---
 date: 2025-01-27 17:31
 draft: false
+tags:
+  - learning
+  - epistemology
+  - skillearning
 ---
-Status:
-
-Tags: #learning #thinking #epistemology
-
-# Understanding requires effortful engagement
-
 Under no circumstance is learning passive. It is strictly an active engagement. If you do not [[Do your own thinking]] and personally work it through--you will only be repeating from others and will not have accumulated your own understanding.
 
 

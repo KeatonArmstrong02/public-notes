@@ -1,11 +1,21 @@
 ---
-date: 2025-05-23 14:13
-last_modified: 2025-01-20 16:30
+date: 2025-01-20 16:30
+last_modified: 
 draft: false
+tags:
+  - philosophy
+  - character
 ---
-#philosophy #beliefs 
-For when it’s used to call someone out I see the intention, they’ve committed the opposite of their word.
+When it’s used to call someone out I see the intention, they’ve committed the opposite of their word. I criticize the idea that you are a hypocrite because you said one thing at one time and did another thing at another. Are they incapable of change? Of nuance to context?
 
-However within mental models, the idea of hypocrisy seems much more.. inevitable? Different tools will have inter-lapping areas of help as well as contingence and seeming contradiction
+To be sure, it is one thing to break the integrity of your character. To be dishonest.
 
-"Sometimes a hypocrite is just a man in the process of changing." - Dalinar Colin
+But needing full cohesion with a past version of yourself is a recipe for stunted growth.
+For if a man has changed. It is his duty to act out with courage, his honest hypocrisy.
+
+"Sometimes a hypocrite is just a man in the process of changing." - Dalinar Kolin
+
+In using a quilted model of the world, the idea of hypocrisy seems.. inevitable? Different tools will have inter-lapping areas of help as well as contingence and seeming contradiction.
+
+
+

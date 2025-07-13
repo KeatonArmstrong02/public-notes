@@ -10,5 +10,5 @@ What are some common misconceptions about productivity?
 
 Avoid busy. Real productivity is choosing the right things to work on.
 [[Prioritization Over Efficiency]]
-[[How to Prioritize Your Life]]
+[[Prioritization]]
 

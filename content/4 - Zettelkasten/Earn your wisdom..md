@@ -12,4 +12,4 @@ You must still earn your wisdom in the sense that whatever is not experienced fi
 
 
 [[Wisdom is not earned through avoiding mistakes]]
-[[Learning]]
+[[Learning MOC]]

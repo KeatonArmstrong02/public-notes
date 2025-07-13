@@ -1,3 +1,10 @@
+---
+title: "What is Comprehensible input, really?"
+date: "2025-06-17 13:24"
+draft: true
+tags:
+---
+---
 I find the true goal to be a mix of immersion and making contact with grammar and words you don’t yet know. 
 The “sweet spot” where understanding most of the words, you can learn new ones through context.
 

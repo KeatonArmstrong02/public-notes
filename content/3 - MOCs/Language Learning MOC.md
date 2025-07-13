@@ -1,5 +1,5 @@
 
-[[Language is a medium for thoughts]]
+[[Language is a medium for thinking]]
 
 
 For learners:

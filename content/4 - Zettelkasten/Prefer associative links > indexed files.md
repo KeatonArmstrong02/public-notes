@@ -1,18 +1,16 @@
 ---
 date: 2025-01-29 10:16
 draft: false
+aliases: 
+tags:
+  - zettelkasten
+  - knowledge-management
 ---
-Status:
-
-Tags: #zettelkasten 
-
-# Prefer associative links > indexed files
-
 I believe this to be one of the greatest strengths within the [[Zettelkasten]]. The associative links between your [[Atomic notes]] allow for a better more organic flow within your system.
 
 This lets us bypass the heirarchical organization structures which separate ideas into arbitrary categories like subject rather than what we are naturally moved to.
 
-Bush, Vannevar. “As We May Think.” _Atlantic Monthly_, July 1945.
+Bush, Vannevar. “[As We May Think.](As%20We%20May%20Think%20by%20Vannevar%20Bush.md)” _Atlantic Monthly_, July 1945.
 
 > Our ineptitude in getting at the record is largely caused by the artificiality of systems of indexing. When data of any sort are placed in storage, they are filed alphabetically or numerically, and information is found (when it is) by tracing it down from subclass to subclass. It can be in only one place, unless duplicates are used; one has to have rules as to which path will locate it, and the rules are cumbersome. Having found one item, moreover, one has to emerge from the system and re-enter on a new path. **The human mind does not work that way. It operates by association. With one item in its grasp, it snaps instantly to the next that is suggested by the association of thoughts, in accordance with some intricate web of trails carried by the cells of the brain.**
 

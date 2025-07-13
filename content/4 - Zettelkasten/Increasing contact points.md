@@ -1,20 +1,18 @@
 ---
 date: 2025-01-17 18:31
 draft: false
+tags:
+  - learning
+  - memory
 ---
-Status:
+---
+Once you are exposed to an idea, seeing it again in different contexts helps you see more of the pattern.
 
-Tags: #learning #insight #memory 
+You start to build a 3d view as you play around with the idea more, apply it to different fields, find which metaphors are more robust.
 
-# Increasing contact points
+[[High-fidelity association]] with personal experience and analogies you have a deep understanding of helps locks down and retain information.
 
-Particularly exposure to the idea, then seeing it again in a different context helps you see more of a pattern.
-
-You get a 3d view as you play around with the idea more, apply it to different fields, find which metaphors are more robust.
-
-Particularly with personal experience and analogies which you have a deep understanding of, this locks down and help us retain information.
-
-This also helps us [[Prefer associative links > indexed files]] as in indexed files, the only connection to the information within is roughly tied together by a tag.
+This also helps us [[Prefer associative links > indexed files]] because as we deeply understand all of the contact points of an idea, we can quickly find it through the organic branches we've created of analogous associations.
 
 #### Reference
 [[Insight requires context]]

@@ -22,4 +22,4 @@ Skills:
 [[On Journaling]]
 
 Religious Belief:
-[[quartz/1 - Rough Notes/Reading list to flesh out my own essay from the Condo]]
+[[Reading list to flesh out my essay from the Condo]]

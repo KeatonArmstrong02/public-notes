@@ -11,7 +11,7 @@ Tags:
 I've been fascinated by [[Andy's Working Notes]] lately and gained so much more fluency within the zettelkasten system because I can directly see how his notes are interconnected. I can see exactly how one idea relates to the next. [[Prefer associative links > indexed files]] and he uses [[High-fidelity association]]. (Both notes inspired by the way he uses them).
 
 I have also seen more blog-style websites as well recently with Gwern and the Zettelkasten sites.
-Gwern is particularly interesting because of his dedication to anonymity. It lets him allow for these strangers to peer into so much of his writing without easily being able to apply any kind of prejudice towards him. Honestly something I respect and may have considered.
+Gwern is particularly interesting because of his dedication to anonymity. It allows for strangers to peer into so much of his writing without easily being able to apply any kind of prejudice towards him. Honestly something I respect and do consider.
 
 > All great minds have good models. The problem is that those models often differ.
 > Piotr Wioznek, *Supermemo*, Imprecision in psychology.

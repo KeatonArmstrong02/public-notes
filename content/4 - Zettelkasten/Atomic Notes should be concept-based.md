@@ -4,8 +4,6 @@ draft: false
 tags:
   - zettelkasten
 ---
-# Atomic notes should be concept-based
-
 You only need to understand a concept once. Once you understand a *concept* you will always recognize it.
 
 Before obsidian, I repeated some concepts with dozens of apple notes without realizing it. 

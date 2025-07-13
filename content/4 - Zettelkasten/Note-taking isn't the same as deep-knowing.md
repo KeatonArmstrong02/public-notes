@@ -14,4 +14,4 @@ You can ask ChatGPT for summaries all day long or get full access to someone els
 
 [[Information must be internalized]] and [[quartz/content/4 - Zettelkasten/Understanding requires effortful engagement]]. It is *the process of how we take notes that can help us to learn better or worse.* Your note's are a way of showing your work and thinking through what you're learning, the learning happens in your head.
 #### Reference
-[[Learning]]
+[[Learning MOC]]

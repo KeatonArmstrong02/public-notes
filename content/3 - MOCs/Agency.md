@@ -1,11 +1,15 @@
 
-My favorite writing on agency overall:
+Best intro's to the idea of high-agency:
 https://www.highagency.com/ by George Mack
+[[[On Agency by Henrik Karlsson]]](https://www.henrikkarlsson.xyz/p/agency?r=1to3gv&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+(I've genuinely been waiting for him to make this essay, I knew he would.)
 
 
-[[Agency checks you out of poor systems]]
+[[High-agency opts you out of systems]]
 [[Can agency scale?]]
 
+
+Agency is permissionless:
 [[A critique of permission]]
 
 [[Engineer Your Beliefs]]

@@ -7,6 +7,6 @@
 [[Judging skill with emotions too early]]
 [[Good enough plateau]]
 [[Skills acquired once -> Lifetime application]]
-[[Deconstructing into Sub-Skills]]
+[[Deconstruct into Sub-Skills]]
 [[2 Games of Tennis]]
 [[Skills can't be taught, they're only acquired]]

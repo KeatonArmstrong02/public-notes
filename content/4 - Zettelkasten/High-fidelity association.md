@@ -1,13 +1,10 @@
 ---
 date: 2025-02-05 11:57
 draft: false
+tags:
+  - zettelkasten
+  - notetaking
 ---
-Status:
-
-Tags:
-
-# High-fidelity association
-
 Because we [[Prefer associative links > indexed files]] we need to strengthen the bond between the links.
 
 Instead of a list of references at the bottom of [[Atomic notes]]. I try to bake into the note why exactly it is linked to another one. This increases the resolution of the connection and keeps me from spamming links and diluting how important each connection is.
@@ -21,6 +18,6 @@ Ask questions like:
 
 We might immediately think of what relates in our mind, but this practice makes our links much stronger.
 
-In trying to explain this concept to Neal, I recognized this note: [[Zettelkasten helped me realize the strength of my analogous thinking]]
+In trying to explain this concept to Neal, I recognized this note: [[Zettelkasten helped me realize the strength analogous thinking]]
 #### Reference
 [[Justin Sung on retaining what we consume]]

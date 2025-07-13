@@ -4,6 +4,3 @@ date: "{{Date}} {{Time}}"
 draft: true
 tags:
 ---
----
-
-

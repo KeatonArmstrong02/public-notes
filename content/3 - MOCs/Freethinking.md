@@ -21,6 +21,7 @@ How can we achieve freethinking?
 
 Why should we seek to free our thoughts?
 [[Restoring Pride by Richard Taylor]]
+[[The opposite of agency is learned helplessness]]
 
 
 What is my relationship with freethinking?

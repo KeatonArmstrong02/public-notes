@@ -20,6 +20,6 @@ If you're average, if you've reached "Good enough" then you'll offload to System
 #### Reference
 Myself and observation from others.. any academic writing?
 (Dr. Becky Kennedy - We talk the most about the things we’re bad at.)
-[[Learning]]
+[[Learning MOC]]
 [[Good enough plateau]]
 [[Thinking Fast and Slow by Daniel Kahneman]]

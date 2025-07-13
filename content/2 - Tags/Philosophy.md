@@ -2,11 +2,13 @@
 Sources:
 [[Man's Search for Meaning by Viktor Frankl]]
 [[The Tao of Seneca (Letters to a Stoic)]]
+[[Restoring Pride by Richard Taylor]]
+[[12 Rules for Life by Peterson]]
 
 Personal:
 [[Philosophy's role in my life]]
 [[Better to Be a Warrior in a Garden, Than a Gardener In a War.]] Though debatable now im not sure
-[[In life, you must choose your regrets.]]
+[[Choose your regrets]]
 
 Philosophy can be broken into further sub-fields.
 #### Epistemology: The theory of knowledge
