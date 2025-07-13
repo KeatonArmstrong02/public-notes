@@ -10,6 +10,8 @@ You'll notice this isn't a typical blog, it's a [[Digital Garden]] where I learn
 
 You can contact me through [email](mailto:keatarmstrong@outlook.com) or [Instagram](https://www.instagram.com/keat.armstrong/#)
 
+What I'm currently working on is at the [[Now]] page.
+
 ---
 ### How it works
 I have 4 folders you see on the left:
