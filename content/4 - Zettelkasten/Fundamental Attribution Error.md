@@ -9,7 +9,7 @@ We see behaviors from others as their character, whereas if we commit the same b
 
 Give others the same leeway you give yourself.
 
-I also feel a bit of comfort in knowing this, as it helps to not throw everyone into a bucket. If someone is rude you don't have to be upset because you can [[lean into ignorance]] and assume better. Just don't always *bet* on ignorance
+I also feel a bit of comfort in knowing this, as it helps to not throw everyone into a bucket. If someone is rude you don't have to be upset because you can [[Leaning into ignorance]] and assume better. Just don't always *bet* on ignorance
 
 A lot of defensiveness might come from the worry that others will use this "against" us. and not give us the same leeway that we ourselves use.
 

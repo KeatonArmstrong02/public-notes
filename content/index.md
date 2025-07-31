@@ -8,9 +8,9 @@ This is where I learn in public and post notes which don't make it onto [substac
 
 You'll notice this isn't a typical blog, it's a [[Digital Garden]] where I learn in public.
 
-You can contact me through [email](mailto:keatarmstrong@outlook.com) or [Instagram](https://www.instagram.com/keat.armstrong/#)
+You can contact me through [email](mailto:keatarmstrong@outlook.com), [Instagram](https://www.instagram.com/keat.armstrong/#), or leave anonymous [feedback](https://www.admonymous.co/keaton-armstrong)
 
-What I'm currently working on is at the [[Now]] page.
+The [[Now]] page lists what I'm currently working on.
 
 ---
 ### How it works
@@ -21,15 +21,16 @@ I have 4 folders you see on the left:
 3. MOCs - Map-Of-Content. A MOC is a navigation hub I make when a subject gets more densely connected. These are the best starting points.
 4. Zettelkasten - Home for all ideas. Finished [[Atomic notes]] go into this folder.
 
-You can also navigate through clusters of notes with the graph view at the bottom (mobile) or on the side (desktop), each of the dots are notes and have links showing its connection to others.
+You can also navigate through clusters with the graph view at the bottom (mobile) or on the side (desktop), each dot is a note and the lines show the links to and from that note.
+[[Prefer associative links > indexed files]]
+
+This design offers a more exploratory user experience. Rather than a birds-eye view of content, we're on street-view (with a few bus stations). I still write in Obsidian and then sync my changes to the build so users get a mirrored experience of how I write and navigate my own notes.
 
 ---
-I decided upon this design for an exploratory user experience. Rather than a birds-eye view of content, we're on street-view. I publish directly from Obsidian with this build so users get a mirrored experience of how I write and navigate my own notes.
-
-Jump into [[Zettelkasten]] to see why I write notes this way.
-You can read about my experience adopting the system in [this essay](https://keatonarmstrong.substack.com/p/how-to-waste-everything-you-learn?r=1to3gv)
+Other links if you're new:
+- Jump into [[Zettelkasten]] to see how this system works. I wrote about my experience migrating to obsidian in [this essay](https://keatonarmstrong.substack.com/p/how-to-waste-everything-you-learn?r=1to3gv)
+- Philosophy: [[Why did I make a website?]]
 
 ----
-Philosophy: [[Why did I make a website?]]
 
-(Note: These notes roughly represent my brain space, however--many ideas are experimental and my conviction on any specific idea is highly variable. This is a playground for my brain, not a court.)
+(Note: These notes roughly represent my brain space, however--many ideas are experimental and my conviction on any specific idea is highly variable. This is a playground for my brain, not a presentation.)

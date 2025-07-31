@@ -12,7 +12,7 @@ In moving away from such a thing I used to think the only other option was being
 
 So where do I fall?
 
-I want to be thoroughly lit up in George Bernard Shaw's sense of living.
+I want to be thoroughly lit up in Bernard Shaw's sense of living.
 
 I still find myself quite malleable, I have a trajectory and tons of potential. I don't want to position myself as some authority on a topic, I want to work through it. I want to show my work for how I think through these things in the way that I found meaningful, not work on translating the problem for other's all the time.
 

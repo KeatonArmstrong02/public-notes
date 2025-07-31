@@ -1,13 +1,10 @@
 ---
 date: 2025-01-21 15:41
 draft: false
+tags:
+  - creativity
+  - contentcreation
 ---
-Status: #child 
-
-Tags: #contentcreation #learning 
-
-# The art of synthesizing ideas
-
 Be mindful not to overly steal, this is how you become an artist about it.
 
 With so many synthesizers, the whole space becomes synthetic; unnatural.

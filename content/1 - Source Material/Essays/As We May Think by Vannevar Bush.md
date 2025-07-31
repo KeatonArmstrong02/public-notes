@@ -7,8 +7,12 @@ draft: false
 https://cdn.theatlantic.com/media/archives/1945/07/176-1/132407932.pdf
 An essay published by *The Atlantic* in 1945 by Bush, Vannevar
 
-Perhaps one of the most impactful essays I've ever read for how I view the importance of information processing and storage today. Particularly my own notetaking [[Zettelkasten helped me realize the strength analogous thinking]] and also how social media fucked us all. Though best written in this essay: [Rebooting the attention machine](https://cosmosinstitute.substack.com/p/rebooting-the-attention-machine)
+---
+Perhaps one of the most impactful essays I've ever read for information processing and storage today. Particularly with personal knowledge management like Zettelkasten. [[Zettelkasten helped me realize the strength analogous thinking]].
 
+A lateral idea: [Rebooting the attention machine](https://cosmosinstitute.substack.com/p/rebooting-the-attention-machine) how what Bush talked about could help us un-fuck social media.
+
+---
 ### Notes:
 
 On volume presenting a search problem:

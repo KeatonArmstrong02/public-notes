@@ -19,4 +19,4 @@ The fun:
 
 
 Personal history and interest:
-[[My personal interest in language learning]]
+[[My interest in language learning]]

@@ -9,7 +9,6 @@ Modern solutions:
 Learning is hard. Remember that
 [[Understanding requires effortful engagement]]
 [[Misinterpreted-effort hypothesis]]
-[[If you don’t feel awkward, you’re learning at a snail’s pace]]
 [[Flimsy understanding]]
 
 
@@ -19,7 +18,7 @@ Learning is your job, decide for yourself and think for yourself:
 
 Our brain can only handle so much:
 [[Intellectual obesity]]
-[[If you don’t feel awkward, you’re learning at a snail’s pace]]
+
 
 
 Reading is a great way to learn:
@@ -31,13 +30,13 @@ Lateral application is necessary to mastery, mastery is not linear:
 [[High-fidelity association]]
 
 
-Understand the big picture at low resolution > High resolution on minutiae
+Understand the whole picture at low resolution > High resolution on minutiae
 [[Meta-Lesson Osmosis]]
 [[Learning happens in layers]]
 [[Insight requires context]] + [[Higher resolution understanding]]
 
 
 [[Good enough plateau]]
-[[Weakness Overcome is the Best Strength]]
+[[Early weakness can often be the best strength later]]
 
 [[Deconstruct into Sub-Skills]]

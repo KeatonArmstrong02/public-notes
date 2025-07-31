@@ -1,5 +1,5 @@
 ---
-date: 2025-05-23 14:13
+date: 2023-08-07
 last_modified: 2025-01-07 12:07
 draft: false
 ---
@@ -9,7 +9,7 @@ Bets we make based on limited information, variables we’ll never be able to ac
 
 And yet the house must collect all chips by the end of the game. We can’t play forever
 
-So go all in
+So what are you afraid of?
 
 
 It’s time I place another bet on myself.

@@ -1,15 +1,11 @@
 ---
 date: 2025-02-06 10:01
 draft: false
+tags:
+  - learning
 ---
-Status:
+"Just because it feels hard, doesn't mean you're doing it wrong. Hard things are just hard."
 
-Tags: #learning 
-
-# Misinterpreted-effort hypothesis
-
-This could also be "Just because it feels hard, doesn't mean you're doing it wrong. Hard things are just hard."
-
-Misinterpreted effort is what many academics and students can fall into because we've learned to assume that learning is quite easy. Especially with new note-taking and tools at our disposal most of us can skate by with the information we have. Yet, we need to know that [[quartz/content/4 - Zettelkasten/Understanding requires effortful engagement]] and if we aren't engaging and we don't feel our brain working, we're probably not really learning. [[If you don’t feel awkward, you’re learning at a snail’s pace]]
+Misinterpreted effort is what many academics and students can fall into because we've learned to assume that learning is quite easy and effortless. Especially with new note-taking and tools at our disposal most of us can skate by with the information we have. Yet, we need to know that [[Understanding requires effortful engagement]] so we don't mistake the feeling of our brain working hard with us not understanding what we're studying.
 #### Reference
-
+https://www.sciencedirect.com/science/article/abs/pii/S0010028519302270

@@ -1,27 +1,24 @@
 ---
 date: 2025-01-28 13:21
 draft: false
+tags:
+  - "#play"
+  - language
 ---
-Status:
-
-Tags: #language #play
-
-# The beauty of the language barrier
-
 If you want to experience child-like joy. Go on a trip with someone who doesn't speak your language well.
 
-Nothing beats the childlike fun of genuinely struggling to communicate.
+When me and Tomasz walked past a rat that had been run over in some Albanian coastal town, I thought nothing but wow, it's so flat and flaky, but he comments, 
+"Kuurrwa, It's Pizza-rat!"
+How wonderful.
 
-Entertain natives with your caveman speech
+Nothing beats the fun of genuinely struggling to communicate. I love to entertain natives with caveman speech. Make terrible puns and purposefully misunderstand. Find horribly coarse translations that aren't proper at all but they just *work*.
 
-Make terrible puns and purposefully misunderstand.
+We don't like people because of what they say, we like them for how they make us feel.
 
-People don't like people because of what they say, its for how they make them feel.
-Even the most basic information, like learning someone's name, can spark wild joy if you worked hard enough to get to it. The connection you make from this struggle is beautiful, patient, and interesting. 
+Even the most basic information, like learning someone's name, can spark firecrackers of laughter and light up their face if you worked hard enough to get to it. The connection you make from this struggle is beautiful and curious, it takes a special kind of patience and interest. 
 
-Nothing is fun about the coffee order I've made a million times, but trying to do it in arabic made it wonderful. It's like a secret code that certain people are in on, and when you speak in it, their eyes dance with delight at someone who understands a little bit of their world.
-Spark curiosity, fun, childlike joy.
+Nothing is fun about the coffee order I've made a million times, but trying to do it in arabic made it wonderful. It's like a secret code that certain people are in on, and when you speak in it, their eyes will dance for you in the recognition that you are no longer a stranger, you are someone who understands a little bit of their world. Not by birth, but because you put in the effort to understand them.
 
-What we can communicate beyond words is wildly underrated.
+Broken vocabulary and twisted grammar might not be smooth, but it's a hell of a lot more fun.
+
 #### Reference
-Kurwa Pizza-rat

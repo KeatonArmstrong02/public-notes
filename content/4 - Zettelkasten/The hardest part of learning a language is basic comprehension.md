@@ -13,11 +13,15 @@ Once we're out of the opening, the game progresses into near-infinite complexity
 
 We should point our focus onto the parts that make up the messages, words.
 
-It is only when we have a near-complete understanding of all the parts in a message can we have hope for comprehending the message. (how those parts relate to each other to communicate meaning)
+It is only when we have near-complete understanding of all the parts in a message can we have hope for comprehending the message holistically. (how those parts relate to each other to communicate meaning)
 
-Even using [[Pareto's Principle]] we need to bulldoze 1000-1500 most common words (using [[Spaced repetition systems]]) to build a foundation of understanding, this becomes our basic comprehension so we can start to comprehend messages rather than juggling too many parts which we can't understand.
+How do we do this?
+[[Early language lessons should focus on chunks]] is like a (recommended) step 1 to use a language asap.
+then beyond common phrases, you'll need more flexibility, you'll want to go wide in your understanding so we want to start learning words. To create more specific phrases for your own.
 
-So, before we can even engage in meaningful conversation beyond our first chunks, the bulk effort of learning a language to practical use is building a foundation of comprehension. This must be done before we can turn our focus to [[Comprehensible input]].
+Use [[Pareto's Principle]] to find and bulldoze the 1000-1500 most common words (using [[Spaced repetition systems]]) to build a foundation of understanding the majority of parts in most messages. This will begin to develop our comprehension.
+
+ [[Comprehensible input]].
 
 -----
 Understanding messages
