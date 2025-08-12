@@ -6,7 +6,7 @@ Tags:
 ## Reference
 https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma
 #### Notes: 
-Andy is a funded researcher working at the intersections of web design, learning, and the tools we can form to supercharge human learning.
+Andy is a crowd-funded researcher working at the intersections of web design, learning, and the tools we can form to supercharge human learning.
 
 Andy's working notes are a test site I found from Andy Matuschak.
 

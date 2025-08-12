@@ -1,12 +1,7 @@
 2025-02-13 17:42
 
-Status:
 
-Tags:
-
-# Writing online as a means to be found
-
-I don't seek to become an "influencer" and I've become jaded with business advice online about the need to grow an audience and market yourself. Perhaps in the eyes of many that is how you succeed, but It's not what I want.
+I don't want to become an "influencer" and I've become jaded with business advice online about the need to grow an audience and market yourself. Perhaps in the eyes of many that is how you succeed, but It's not what I want.
 
 In moving away from such a thing I used to think the only other option was being a "starving artist" type. Though it's seemingly unsustainable and half the reason we have all the marketing and growth advice online is so people can avoid death by obscurity with a practical way to enable their creative pursuits.
 

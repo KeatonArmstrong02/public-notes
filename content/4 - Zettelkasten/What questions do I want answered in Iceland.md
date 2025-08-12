@@ -1,6 +1,6 @@
 ---
-date: 2025-05-23 14:13
-last_modified: 2025-02-07 20:05
+date: 2022-07-30
+last_modified: 2022-07-30
 draft: false
 ---
 Tags: #travel #reflection #mystory 
@@ -17,5 +17,3 @@ Get absolutely crystal clear on my goals.
 Journaling is an incredible tool, get creative and utilize it more by blocking time and asking the right questions
 
 -------------------
-Where does this notion stray from Vagabonding?
-Where does it align for an example of more intentional travel?

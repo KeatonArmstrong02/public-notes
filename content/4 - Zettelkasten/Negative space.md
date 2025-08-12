@@ -4,11 +4,8 @@ draft: false
 tags:
   - metaphor
   - physics
+  - "#psychology"
 ---
-Status:
-
-Tags: #logic #psychology 
-
 Negative space is what we get when we inverse something, but can't get a vacuum.
 Anti-form, *structural* absence, the lack of it still imposes structure.
 
