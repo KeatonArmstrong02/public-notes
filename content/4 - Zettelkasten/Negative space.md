@@ -15,7 +15,7 @@ There is no non-existence of culture, if you are fighting it, you are replacing 
 
 Culture, identity, even insecurity: their “absences” are not empty, but a structured void, shaped by the very thing they resist or lack.
 
-Psychologists remark that it's not what a champion athlete has that makes them more obsessed than others, it is typically that they *Lack* something that most other people have. An off switch.
+Psychologists remark that it's not what a champion athlete has that makes them more obsessed than others, it is typically that they *Lack* something that most other people have. An off switch.[^1]
 
 It is common metaphor within humans to say we have a 'hole' inside us which cannot be filled in the soul. This is negative space. An insecure person doesn’t simply lack confidence—they are contoured by its absence. They don't act with a non-existence of it, but from a structured void of what should be there. Driving them to overcompensate in different [[adaptive strategies]]. Someone acting to "fill the hole" may build a skill or do something incredibly grand in trying to do so. [[Overcompensation]]
 
@@ -25,3 +25,5 @@ This is akin to Sartre’s concept of nothingness—that **the absence of a thin
 #### Reference
 Self
 Perhaps "Jungian Shadow" psychoanalysis?
+
+[^1]: Attribution for this idea seems a bit murky, though I know for sure I heard it from Hormozi. He likely got it from a sports psychologist.
